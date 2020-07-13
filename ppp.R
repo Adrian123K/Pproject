@@ -15,13 +15,10 @@ library(KoNLP)
 hd <- readLines("test.txt")
 hd_exn <- sapply(hd, extractNoun, USE.NAMES=F)
 
-head(unlist(hd_exn),30)
 hd_unl <- unlist(hd_exn)
 
 hd_unl <- Filter(function(x){
   nchar(x)<=10
-}, hd_unl)
-hd_unl <- Filter(function(x){
   nchar(x)>=2
 }, hd_unl)
 
@@ -44,9 +41,9 @@ write(unlist(hd_unl),"headline_unlist.txt")
 hd_list <- read.table("headline_unlist.txt")
 
 wc <- table(hd_list)
-head(sort(wc,decreasing=T),10)
-wc
+head(sort(wc,decreasing=T),15)
 
-pal=brewer.pal(6,"Set2")
+pal=brewer.pal(5,"Set3")
+dev.new()
 wordcloud(names(wc), freq=wc, scale=c(5,1), rot.per=0.25, min.freq=1, random.order=F, random.color=T, colors=pal)
-#legend(0.3,1,"1Q News Head", cex=0.8, fill=NA, border=NA, bg='white', text.col='red', text.font=2, box.col='red')
+  #legend(0.3,1,"1Q News Head", cex=0.8, fill=NA, border=NA, bg='white', text.col='red', text.font=2, box.col='red')
