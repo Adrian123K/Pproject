@@ -11,8 +11,9 @@ library(rJava)
 library(RColorBrewer)
 library(wordcloud)
 library(KoNLP)
+library(data.table)
 
-hd <- readLines("test.txt")
+hd <- readLines("headline1Q.txt")
 hd_exn <- sapply(hd, extractNoun, USE.NAMES=F)
 
 hd_unl <- unlist(hd_exn)
@@ -24,24 +25,31 @@ hd_unl <- Filter(function(x){
 
 hd_unl <- gsub("\\d+","",hd_unl)
 hd_unl <- gsub(" ","",hd_unl)
-hd_unl <- gsub("LG","",hd_unl)
-hd_unl <- gsub("G","",hd_unl)
-hd_unl <- gsub("전자","",hd_unl)
-hd_unl <- gsub("속보","",hd_unl)
-hd_unl <- gsub("전자","",hd_unl)
-hd_unl <- gsub("s","",hd_unl)
+hd_unl <- gsub("조원태","대한항공",hd_unl)
+hd_unl <- gsub("조현아","대한항공",hd_unl)
+hd_unl <- gsub("한진","대한항공",hd_unl)
+hd_unl <- gsub("회장","대한항공",hd_unl)
+hd_unl <- gsub("확진자","코로나",hd_unl)
+hd_unl <- gsub("신종","코로나",hd_unl)
+hd_unl <- gsub("추가","코로나",hd_unl)
+hd_unl <- gsub("확진","코로나",hd_unl)
+hd_unl <- gsub("환자","코로나",hd_unl)
+hd_unl <- gsub("우한","코로나",hd_unl)
+hd_unl <- gsub("감염","코로나",hd_unl)
+hd_unl <- gsub("중국","코로나",hd_unl)
+hd_unl <- gsub("확진자","코로나",hd_unl)
 
-hd_txt <- readLines('head_gsub.txt')
-cnt <- length(hd_txt)
-for(i in 1:cnt){
-  hd_unl=gsub((hd_txt[i]),"",hd_unl)
+hd_gsub <- readLines('head_gsub2.txt')
+cnt <- length(hd_gsub)
+for (i in 1:cnt){
+  hd_unl <- gsub((hd_gsub[i]),"",hd_unl)
 }
-
 write(unlist(hd_unl),"headline_unlist.txt")
 hd_list <- read.table("headline_unlist.txt")
 
 wc <- table(hd_list)
 head(sort(wc,decreasing=T),15)
+write(unlist(wc_rs),'headline_wc.csv')
 
 pal=brewer.pal(5,"Set3")
 dev.new()
