@@ -1,5 +1,6 @@
 setwd('d:/Pproject')
 setwd('d:/Desktop/Itwill ws/Pproject')
+setwd('C:/Users/seoju/Documents/ws/Pproject')
 
 install.packages('TTR')
 install.packages('forecast')
@@ -12,27 +13,12 @@ library(readxl)
 library(tseries)
 library(ggplot2)
 
-sample <- read.csv('5g 가입자.csv',header=F,stringsAsFactors=F)
-st <- t(sample[2:5,])
-st <- lapply(st,as.numeric)
-st <- as.matrix(st,nrow=14,ncol=4)
-st
-str(st)
-
-
-
-for (i in nrow(date)){
-  date[i] <- as.Date()
-}
-  
 sample <- read.csv('5g 가입자.csv',header=F, stringsAsFactors=F)
 
-Date <- t(sample[1,])
 SKT <- t(sample[2,])
 KT <- t(sample[3,])
 LG <- t(sample[4,])
 MVNO <- t(sample[5,])
-
 
 Date <- seq(as.Date('2019-04-01','%Y-%m-%d'),as.Date('2020-05-01','%Y-%m-%d'),by='month')
 SKT <- as.numeric(SKT)
@@ -44,14 +30,17 @@ st
 
 #date <- seq(as.Date('2019-04','%Y-%m'),as.Date('2020-05','%Y-%m'),'month')
 
-par(mfrow=c(2,1))
+
 
 ts_skt <- ts(st$SKT,start=c(2019,4),frequency = 12)
 end(ts_skt)
+
 dev.new()
+par(mfrow=c(2,1))
 plot.ts(ts_skt)
 abline(reg=lm(ts_skt~time(ts_skt)))
 plot(decompose(ts_skt))
+
 adf.test(ts_skt,alternative='stationary',k=0)
 adf.test(diff(log(ts_skt)),alternative='stationary',k=0)
 dev.new()
@@ -67,11 +56,11 @@ plot.ts(skt_d1)
 plot.ts(skt_d2)
 
 dev.new()
-par(mfrow=c(2,2))
+par(mfrow=c(2,1))
 acf(log(ts_skt))
 pacf(log(ts_skt))
-acf(diff(log(ts_skt)))
-pacf(diff(log(ts_skt)))
+ggAcf(diff(log(ts_skt)),lag=7)
+ggPacf(diff(log(ts_skt)),lag=7)
 
 ggAcf(ts_skt,lag=14)
 ggPacf(ts_skt,lag=14)
@@ -79,6 +68,10 @@ ggPacf(ts_skt,lag=14)
 dev.new()
 par(mfrow=c(2,2))
 acf(ts_skt)
+
+
+
+
 
 
 
