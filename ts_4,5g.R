@@ -1,11 +1,14 @@
 setwd('C:/Users/seoju/Documents/ws/Pproject')
+setwd('D:/Desktop/Itwill ws/Pproject')
 getwd()
+
 library(TTR)
 library(forecast)
 library(data.table)
 library(readxl)
 library(tseries)
 library(ggplot2)
+library(gcookbook)
 
 ## Data 붙이기
 skt4 <- read.csv('4g_sk.csv',header=F,stringsAsFactors = F)
@@ -35,31 +38,80 @@ dev.new()
 par(mfrow=c(2,1))
 acf(diff(ts_skt4,differences = 1),lag=40)
 pacf(diff(ts_skt4,differences = 1),lag=40)
+
+dev.new()
 acf(diff(ts_skt4,differences = 2))
 pacf(diff(ts_skt4,differences = 2))
-ggAcf(diff(ts_skt4,differences = 1),lag=40) + ggtitle('차분 1회 시행 시 ACF')
-ggAcf(diff(ts_skt4,differences = 2),lag=40) + ggtitle('차분 2회 시행 시 ACF')
-ggPacf(diff(ts_skt4, differences = 1),lag=40) + ggtitle('차분 1회 시행 시 PACF')
-ggPacf(diff(ts_skt4, differences = 1),lag=40) + ggtitle('차분 2회 시행 시 PACF')
 
-##### skt 4g
+dev.new()
+ggAcf(diff(ts_skt4,differences = 1),lag=40) + ggtitle('SKT 4G 차분 1회 시행 시 ACF')
+ggPacf(diff(ts_skt4, differences = 1),lag=40) + ggtitle('SKT 4G 차분 1회 시행 시 PACF')
+
+dev.new()
+ggAcf(diff(ts_skt4,differences = 2),lag=40) + ggtitle('SKT 4G 차분 2회 시행 시 ACF')
+ggPacf(diff(ts_skt4, differences = 2),lag=40) + ggtitle('SKT 4G 차분 2회 시행 시 PACF')
+
+dev.new()
+ggAcf(diff(log(ts_skt4),differences = 2),lag=40) + ggtitle('SKT 4G 로그변환 차분 2회 시행 시 ACF')
+ggPacf(diff(log(ts_skt4),differences = 2),lag=40) + ggtitle('SKT 4G 로그변환 차분 2회 시행 시 PACF')
+
+
+##### skt 4g auto arima
 auto.arima(ts_skt4,seasonal = F, stepwise=F, approximation = F)
 dev.new()
 ggtsdisplay(ts_skt4)
-dev.new()
-ggtsdisplay(diff(log(ts_skt4),differences = 2))
 
-skt4_fit <- arima(diff(log(ts_skt4),differences = 2),c(4,2,0))
+# skt 4g 차분데이터 확인
+dev.new()
+ggtsdisplay(diff(diff(log(ts_skt4),differences = 2),1))
+adf.test(diff(ts_skt4,differences = 2),alternative='stationary',k=0)
+
+
+# 로그+2회 차분 
+skt4_fit <- Arima(diff(log(ts_skt4),2),c(4,2,0))
 summary(skt4_fit)
+
 dev.new()
 checkresiduals(skt4_fit)
 
+# stlf 
+dev.new()
+ts_skt4 %>% mstl() %>%
+  autoplot() + xlab("통화량")
+forecast <- (stlf(ts_skt4))
+summary(forecast)
+tail(df_sk)
+autoplot(stlf(ts_skt4)) + ggtitle('SKT 4G 예측 모델 STLF')
+# https://otexts.com/fppkr/forecasting-decomposition.html
+
 dev.new()
 ts_skt4 %>%
-  Arima(order=c(4,2,0)) %>%
-  forecast() %>%
-  autoplot() + ggtitle('SKT 4G 예측 모델')
+  Arima(order=c(4,2,0)) %>% 
+  forecast(h=12) %>%
+  autoplot() + ggtitle('SKT 4G 예측 모델 ARIMA')
 # par(new=T)  
+
+
+# ETS 모델 적합도 확인 필요
+
+dev.new()
+ts_skt4 %>% ets() %>% forecast(h=12) %>% autoplot() + ggtitle('SKT 4G 예측 모델 ETS')
+
+
+
+dev.new()
+autoplot(diff(ts_skt4,differences = 2), series="데이터") +
+  autolayer(ma(diff(ts_skt4,differences = 2), 12), series="12-MA") +
+  xlab("연도") + ylab("신규 가입자") +
+  ggtitle("SKT  4G 점유율") +
+  scale_colour_manual(values=c("데이터"="grey","12-MA"="red"),
+                      breaks=c("데이터","12-MA")) +
+  guides(colour=guide_legend(title=" "))
+
+
+
+
+
 
 ##### skt 5g
 skt5 <- read.csv('5g_sk.csv',header=F,stringsAsFactors = F)
@@ -91,9 +143,6 @@ ts_skt5 %>%
   Arima(order=c(5,2,0)) %>%
   forecast() %>%
   autoplot() + ggtitle('SKT 5g 예측 모델')
-
-
-
 
 dev.new()
 ts_skt4 %>%
