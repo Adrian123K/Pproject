@@ -1,39 +1,506 @@
-éŸ“ì‹ ì¸ ì•„ì´ëŒ, KTtitle5Gtitleë¡œ ì¤‘êµ­ íŒ¬ ë§Œë‚œë‹¤
-KT,title5Gtitleì£¼ì°¨ë¡œë´‡ ì‚¬ì—… ë›°ì–´ë“ ë‹¤
-ìµœê¸°ì˜ ìž¥ê´€ ì´í†µ3ì‚¬ CEOì—ê²Œ â€œtitle5Gtitleí’ˆì§ˆ ê°œì„  ë¶„ë°œí•´ë‹¬ë¼"
-ìµœê¸°ì˜ ìž¥ê´€ ì´í†µ3ì‚¬ CEOì—ê²Œ â€œtitle5Gtitleí’ˆì§ˆ ê°œì„  ë¶„ë°œí•´ë‹¬ë¼"
-éŸ“ì‹ ì¸ ì•„ì´ëŒ, KTtitle5Gtitleë¡œ ì¤‘êµ­ íŒ¬ ë§Œë‚œë‹¤
-KT,title5Gtitleì£¼ì°¨ë¡œë´‡ ì‚¬ì—… ë›°ì–´ë“ ë‹¤
-í™”ì›¨ì´title5Gtitleìž¥ë¹„ ì‚¬ìš© LG U+, ë§ ì•„ë¼ëŠ” í•˜í˜„íšŒ
+SKÅÚ·¹ÄÞ, ¾ðÅÃÆ® ½Ã´ë ¸Â¾Ætitle5Gtitle¡¤ICT È°¿ëÇÑ À¯Åë ¸ðµ¨ ¼±ºÄ
+È­¿þÀÌtitle5GtitleÅðÃâ °áÁ¤ÇÑ çÈ, ìí¿¡ ·¯ºêÄÝ
+Â÷¡¤Æ÷ ¶¾ »þ¿À¹Ì '¹Ì10 ¶óÀÌÆ®title5Gtitle'¡¦°¡¼ººñ ¾Æ½¬¿ö
+KT, VR Ã¼ÇèÇÏ°ítitle5Gtitle½ºÆ®¸®¹Ö °ÔÀÓµµ ÇÏ´Â 'Ã¼ÇèÇü ¸ÅÀå' ¿¬´Ù
+²ö²öÇØÁø Ú¸-çÈ,title5Gtitle¼Ö·ç¼Ç °øµ¿ °³¹ß ³ª¼±´Ù
+¸ô¶ô À§±â ¸ÂÀº ¾Ë¶ãÆù¡¦title5Gtitle°¡ÀÔÀÚ 0.018%¸¸ ¾Ë¶ãÆù ÀÌ¿ë
+Åë½Å¾÷°è,title5Gtitle´Üµ¶¸ðµå ÅëÇØ B2B º»°Ý °ø·«
+ùÛ½ÅÀÎ ¾ÆÀÌµ¹, KTtitle5Gtitle·Î Áß±¹ ÆÒ ¸¸³­´Ù
+°ø°ø µ¥ÀÌÅÍ 14¸¸°³ °³¹æ¡¦title5Gtitle¸Á È®´ë °úÁ¦
+ºí·çÆù, ¾ÆÀÌÆù12title5GtitleÀÎ±â ¿¹»ó, ¾ÆÀÌÆù11 ÇÁ·Î ¹× SE2 °¡°Ý ÇÒÀÎ
+[´º½ºÁÜÀÎ] Ãâ°í°¡ 45¸¸¿øÀÇ »þ¿À¹Ìtitle5GtitleÆù, ¾µ ¸¸ ÇÒ±î?
+KT,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷ ¶Ù¾îµç´Ù
+ÃÖ±â¿µ Àå°ü ÀÌÅë3»ç CEO¿¡°Ô ¡°title5GtitleÇ°Áú °³¼± ºÐ¹ßÇØ´Þ¶ó"
+ÇÖ¹ö½ºÆù, ¾ÆÀÌÆù12title5Gtitle¿¹»ó ½ºÆå ¹× Ãâ½ÃÀÏ È­Á¦, ¾ÆÀÌÆù11 ÇÁ·Î ¹× SE2 °¡°Ý...
+'µðÁöÅÐ ´ºµô'title5Gtitle±¸Ãà¿¡ 25Á¶ ÅõÀÚ¡¦ '¿ì¸®³Ý' ±â´ë°¨UP
+È­¿þÀÌtitle5GtitleÀåºñ »ç¿ë LG U+, ¸» ¾Æ³¢´Â ÇÏÇöÈ¸
+°æºÏµµ ¹Ì·¡ ½Å»ê¾÷ ÇÙ½ÉÀÎÇÁ¶ó ¼±Á¡...title5Gtitle¼Óµµ·Î ÁúÁÖ!
+Åë½Å 4»ç,title5Gtitle'µðÁöÅÐ ´ºµô'¿¡ 25Á¶ ÅõÀÔ¡¦³ó¾îÃÌ ÀÎÇÁ¶ó °øµ¿ ±¸Ãà
+KT, 'title5Gtitle±â¾÷¸Á ½½¶óÀÌ½º' °³¹ß¡¦³×Æ®¿öÅ© ÃÖÀûÈ­ Áö¿ø
+KT, ñé Â÷ÀÌ³ª¸ð¹ÙÀÏ¿¡title5GtitleÄÜÅÙÃ÷ ¼öÃâ
+KT,title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º °³¹ß¡¦"¸ÂÃãÇü ³×Æ®¿öÅ© Á¦°ø"
+Åë½Å4»ç, 2022³âtitle5GtitleÀü±¹¸Á ±¸Ãà À§ÇØ 25Á¶¿ø ÅõÀÚ
+ÃÖ±â¿µ Àå°ü "title5GtitleÇ°Áú °³¼± ºÐ¹ßÇØ¾ß¡¦Á¤ºÎ Àû±Ø Áö¿ø"
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+"µðÁöÅÐ´ºµô µû¸¥´Ù"...KT, ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+KT,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+ÀÌÀç¿ë ºÎÈ¸Àå, ÀüÀå¿ë MLCC »ý»êÇöÀå Ã£¾Æ AI.title5Gtitle. Àü±âÂ÷ µî ½Å±â¼ú ´ëÀÀÀü...
+KT, ±Û·Î¹ú Åë½Å»ç¿Í ¡®title5GtitleMEC¡¯ ±â¼ú ±Ô°Ý °³¹ß
+Åë½Å¾÷°è, 2022³â »ó¹Ý±âtitle5GtitleÀü±¹¸Á ±¸Ãà¡¦ÅõÀÚ¾×¸¸ 25ð¼
+KT ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+ÃÖ±â¿µ Àå°ü, Åë½Å3»ç CEO ¸¸³ªtitle5Gtitle±¸Ãà ¾Õ´ç°Ü ´Þ¶ó ¿äÃ»
+ºí·çÆù, ¾ÆÀÌÆù12title5GtitleÀÎ±â ¿¹»ó, ¾ÆÀÌÆù11 ÇÁ·Î ¹× SE2 °¡°Ý ÇÒÀÎ
+»ï¼ºÀüÀÚ,title5Gtitle³Ñ¾î '6G ÁØºñ' ¹ÚÂ÷
+ÃÖ±â¿µ Àå°ü, Åë½Å3»ç CEO ¸¸³ªtitle5Gtitle±¸Ãà ¾Õ´ç°Ü ´Þ¶ó ¿äÃ»
+ºí·çÆù, ¾ÆÀÌÆù12title5GtitleÀÎ±â ¿¹»ó, ¾ÆÀÌÆù11 ÇÁ·Î ¹× SE2 °¡°Ý ÇÒÀÎ
+»ï¼ºÀüÀÚ,title5Gtitle³Ñ¾î '6G ÁØºñ' ¹ÚÂ÷
+[´º½ºÁÜÀÎ] Ãâ°í°¡ 45¸¸¿øÀÇ »þ¿À¹Ìtitle5GtitleÆù, ¾µ ¸¸ ÇÒ±î?
+KT,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷ ¶Ù¾îµç´Ù
+5Gtitle¿Ã¶ó Åº ¡®¸ÅµåÆ÷°¥¸¯¡¯...KT-¿¥¿¡ÇÁÁöÄÚ¸®¾Æ, µðÁöÅÐ Çõ½Å Çù¾à Ã¼°á
+5Gtitle¿Ã¶ó Åº ¡®¸ÅµåÆ÷°¥¸¯¡¯...KT-¿¥¿¡ÇÁÁöÄÚ¸®¾Æ, µðÁöÅÐ Çõ½Å Çù¾à Ã¼°á
+ÀÌÅë 3»ç,title5GtitleÀÎÇÁ¶ó¿¡ 3³â°£ 25Á¶¿ø ÅõÀÔ¡¦'µðÁöÅÐ ´ºµô' ¾ÕÀå
+¾ÆÇÁ¸®Ä«TV, VR e½ºÆ÷Ã÷ ÆÇ Å°¿î´Ù...title5GtitleÄÜÅÙÃ÷ ½ÃÀå °ø·«
+[µ¿Çâ] KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+Åë½Å3»ç,title5Gtitle'µ¥ÀÌÅÍ °í¼Óµµ·Î' ±¸ÃàÇÑ´Ù¡¦"2022³â±îÁö 26Á¶ ÅõÀÚ"
+¾ÆÇÁ¸®Ä«TV, VR e½ºÆ÷Ã÷ ÆÇ Å°¿î´Ù...title5GtitleÄÜÅÙÃ÷ ½ÃÀå °ø·«
+'µ¥ÀÌÅÍ °í¼Óµµ·Î ±ñ´Ù'¡¦Åë½Å»çtitle5Gtitle¾÷±×·¹ÀÌµå 25Á¶ ÅõÀÚ
+KT, ÇØ¿Ü Åë½Å»çµé°útitle5GtitleÀ¶º¹ÇÕ À§ÇÑ ±â¼ú±Ô°Ý °³¹ß
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' ±â¼ú °ËÁõ ¿Ï·á
+¾ÆÇÁ¸®Ä«Æ¼ºñ(TV), 'VR e½ºÆ÷Ã÷'·Îtitle5Gtitle½Ç°¨Çü ÄÜÅÙÃ÷ ½ÃÀå °ø·«ÇÑ´Ù
+Åë½Å 4»ç, 2022³â±îÁötitle5GtitleÀÌµ¿Åë½Å µî ±â¹Ý¿¡ 25.7Á¶ ÅõÀÚ
+KT, ±Û·Î¹ú Åë½Å»ç¿Í Çù¾÷ÇØtitle5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ´ëºñ '±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+ÃÖ±â¿µ Àå°ü ÀÌÅë3»ç CEO¿¡°Ô ¡°title5GtitleÇ°Áú °³¼± ºÐ¹ßÇØ´Þ¶ó"
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' »ó¿ë ¼­ºñ½º ÁØºñ ¿Ï·á
+KT, 'title5GtitleÇ»Ã³Æ÷·³' Ã¹ ¼º°ú...title5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+ÀÌÅë»ç, 3³â°£title5Gtitle¿¡ 25Á¶¿ø ½ñ¾Æ º×´Â´Ù
+ÇÖ¹ö½ºÆù, ¾ÆÀÌÆù12title5Gtitle¿¹»ó ½ºÆå ¹× Ãâ½ÃÀÏ È­Á¦, ¾ÆÀÌÆù11 ÇÁ·Î ¹× SE2 °¡°Ý...
+KT,title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º ±â¼ú °³¹ß
+ÇÖ¹ö½ºÆù, ¾ÆÀÌÆù12title5Gtitle¿¹»ó ½ºÆå ¹× Ãâ½ÃÀÏ È­Á¦, ¾ÆÀÌÆù11 ÇÁ·Î ¹× SE2 °¡°Ý...
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+[ÇöÀå] Åë½Å¾÷°è,title5GtitleµðÁöÅÐ °í¼Óµµ·Î 26Á¶¿ø ÅõÀÚ
+KT, ±Û·Î¹ú Åë½Å»ç¿Ítitle5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+KT, ¡®µðÁöÅÐ ´ºµô¡¯ ¸ÂÃç ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' ±â¼ú °³¹ß ¿Ï·á
+KT 'title5Gtitle±â¾÷¸Á ½½¶óÀÌ½º' »ó¿ëÈ­ ÀÓ¹Ú
+5GtitleÆù ÀüÀÚÆÄ ÀÎÁõ °£¼ÒÈ­¡¦ÃÖ´ë 5°³¿ù ¾Æ³¤´Ù
+'µðÁöÅÐ ´ºµô'title5Gtitle±¸Ãà¿¡ 25Á¶ ÅõÀÚ¡¦ '¿ì¸®³Ý' ±â´ë°¨UP
+KT, ¹ö¶óÀÌÁð µî°útitle5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+KT, ±â¾÷ ¾÷¹«Æ¯¼º µû¶ótitle5GtitleÅë½Å¸ÁÀ» ºÐ¸®ÇØ Á¦°øÇÏ´Â ¼­ºñ½º °³¹ß
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+'µðÁöÅÐ ´ºµô'title5Gtitle±¸Ãà¿¡ 25Á¶ ÅõÀÚ¡¦ '¿ì¸®³Ý' ±â´ë°¨UP
+KT, ¹ö¶óÀÌÁð µî°útitle5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+¾ÆÇÁ¸®Ä«TV, 'VR e½ºÆ÷Ã÷'·Îtitle5GtitleÄÜÅÙÃ÷ ½ÃÀå °ø·«
+È­¿þÀÌtitle5GtitleÀåºñ »ç¿ë LG U+, ¸» ¾Æ³¢´Â ÇÏÇöÈ¸
+µðÁöÅÐ´ºµô Á¤Ã¥ ºÎÀÀ... KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+¾ÆÇÁ¸®Ä«TV, 'VR e½ºÆ÷Ã÷'·Îtitle5GtitleÄÜÅÙÃ÷ ½ÃÀå °ø·«
+È­¿þÀÌtitle5GtitleÀåºñ »ç¿ë LG U+, ¸» ¾Æ³¢´Â ÇÏÇöÈ¸
+Åë½Å¾÷°è, 2022³â±îÁötitle5GtitleÀÎÇÁ¶ó¿¡ ÃÖ´ë 25Á¶7Ãµ¾ï ÅõÀÚ
+KTtitle5GtitleÀ¶º¹ÇÕ »ç¾÷ À§ÇÑtitle5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+KT, ÇØ¿Ü Åë½Å»çµé°útitle5GtitleÀ¶º¹ÇÕ ±â¼ú±Ô°Ý °³¹ß
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+KT, ÇØ¿Ü Åë½Å»çµé°útitle5GtitleÀ¶º¹ÇÕ ±â¼ú±Ô°Ý °³¹ß
+Åë½Å¾÷°è,title5GtitleÀÎÇÁ¶ó ±¸Ãà¿¡ 25Á¶¿ø ÅõÀÚ¡¦¡®µðÁöÅÐ ´ºµô¡¯ Áö¿ø»ç°Ý
+'title5Gtitle±â¾÷¸Á ½½¶óÀÌ½º' ±â¼ú °ËÁõ¡¦¸ÂÃãÇü ³×Æ®¿öÅ© ¼­ºñ½º ±â¹Ý ¸¶·Ã
+KT,title5GtitleÇ»Ã³Æ÷·³°útitle5GtitleMEC °øÅë ±â¼ú ±Ô°Ý °³¹ß
+5GtitleÆù Á¦Ç°Ãâ½Ã »¡¶óÁø´Ù...ÀüÀÚÆÄ ÃøÁ¤½Ã°£ ´ÜÃà
+KT, ¡®title5GtitleÇ»Ã³·¦¡¯ ¸â¹öµé°útitle5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+»þ¿À¹Ì, '¹Ì10¶óÀÌÆ®title5Gtitle' 17ÀÏ ±¹³»Ãâ½Ã¡¦Ãâ½Ã°¡ 45¸¸1Ãµ¿ø
+5GtitleÆù Á¦Ç°Ãâ½Ã »¡¶óÁø´Ù...ÀüÀÚÆÄ ÃøÁ¤½Ã°£ ´ÜÃà
+KT, ¡®title5GtitleÇ»Ã³·¦¡¯ ¸â¹öµé°útitle5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+»þ¿À¹Ì, '¹Ì10¶óÀÌÆ®title5Gtitle' 17ÀÏ ±¹³»Ãâ½Ã¡¦Ãâ½Ã°¡ 45¸¸1Ãµ¿ø
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' ±â¼ú °³¹ß ¿Ï·á
+°ú±âºÎ, ÀÌÅë3»ç¿¡ "title5GtitleÇ°Áú°³¼±, ºÐ¹ßÇØ¾ß"
+[SRÅë½ÅIT] Åë½Å»ç, 'µðÁöÅÐ ´ºµô'¡¦3³â°£title5GtitleÀÎÇÁ¶ó '25Á¶' ÅõÀÚ
+»þ¿À¹Ì, 45¸¸¿ø´ë ¹Ì 10 ¶óÀÌÆ®title5Gtitle±¹³» Ãâ½Ã
+»þ¿À¹Ì, 40¸¸¿ø´ëtitle5Gtitle½º¸¶Æ®Æù '¹Ì 10 ¶óÀÌÆ®title5Gtitle' °ø°³
+'µ¥ÀÌÅÍ °í¼Óµµ·Î'title5Gtitle, Åë½Å 4»ç 3³â°£ 25Á¶ ÅõÀÚ
+KT, ¹ö¶óÀÌÁð¡¤º¸´ÙÆù µî°útitle5GtitleMEC ±â¼ú±Ô°Ý¡¤°¡ÀÌµå¶óÀÎ °³¹ß
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß »ó¿ëÈ­
+"µðÁöÅÐ´ºµô ÇÔ²²ÇÑ´Ù"...Åë½Å¾÷°è,title5Gtitle±¸Ãà¿¡ 25Á¶¿ø ÅõÀÚ
+KT, ¹ö¶óÀÌÁð¡¤º¸´ÙÆù µî°ú Çù¾÷¡¦title5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+ÀÌÅë3»ç, 'µðÁöÅÐ´ºµô'¿¡ È£ÀÀ...2022³â±îÁötitle5GtitleÀÎÇÁ¶ó¿¡ 25Á¶ ÅõÀÚ
+¾ÆÇÁ¸®Ä«TV, 'VR e½ºÆ÷Ã÷'·Îtitle5GtitleÄÜÅÙÃ÷ ½ÃÀå °ø·«
+Åë½Å4»ç, 'µ¥ÀÌÅÍ °í¼Óµµ·Î' ±¸Ãà À§ÇØtitle5Gtitle¿¡ 25Á¶¿ø ÅõÀÚ
+KT, ¸ÂÃãÇü ³×Æ®¿öÅ© ±â¼ú ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+"e½ºÆ÷Ã÷µµ VR·Î"¡¦¾ÆÇÁ¸®Ä«TVtitle5GtitleÄÜÅÙÃ÷ »ç¾÷ ¹ÚÂ÷
+KT, ¸ÂÃãÇü ³×Æ®¿öÅ© ±â¼ú ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+"»ê¾÷ ¸ñÀû¿¡ ¸Â°Ôtitle5Gtitle¸Á ¼¼ºÐÈ­"¡¦KT, µðÁöÅÐ ´ºµô ¸ÂÃç ½Å±â¼ú »ó¿ëÈ­
+KT, ±Û·Î¹ú Åë½Å»çµé°útitle5GtitleÅë½Å ¼Óµµ ´ëÆø ³ôÀÌ´Â ±â¼ú °øµ¿±Ô°Ý °³¹ß
+KT, »ç³»¸Á ¿©·¯ °³·Î ºÐ¸®ÇÏ´Â ¡®title5Gtitle±â¾÷¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+KT, ±Û·Î¹ú Åë½Å»çµé°útitle5GtitleÅë½Å ¼Óµµ ´ëÆø ³ôÀÌ´Â ±â¼ú °øµ¿±Ô°Ý °³¹ß
+KT, µðÁöÅÐ´ºµô À§ÇÑ 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß ¿Ï·á
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß¡¦title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ´ëÀÀ
+KT, »ç³»¸Á ¿©·¯ °³·Î ºÐ¸®ÇÏ´Â ¡®title5Gtitle±â¾÷¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+5Gtitle½º¸¶Æ®Æù ÀüÀÚÆÄ ½ÃÇè °£¼ÒÈ­¡¦28GHz±Þ Á¦Ç° Ãâ½Ã ¾Õ´ç±ä´Ù
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+°æºÏµµ ¹Ì·¡ ½Å»ê¾÷ ÇÙ½ÉÀÎÇÁ¶ó ¼±Á¡...title5Gtitle¼Óµµ·Î ÁúÁÖ!
+KT, ±Ù°Å¸®title5Gtitleµ¥ÀÌÅÍ Ã³¸® ±â¼ú ±Ô°Ý ¹× °¡ÀÌµå¶óÀÎ °³¹ß
+»þ¿À¹Ì, '¹Ì10 ¶óÀÌÆ®title5Gtitle' ±¹³» Ãâ½Ã¡¦Ãâ°í°¡ 45¸¸1000¿ø
+KT, ±Û·Î¹ú °øµ¿ 'title5GtitleMEC' ±Ô°Ý °³¹ß...¹ö¶óÀÌÁð¡¤º¸´ÙÆù µî 6°³»ç Çù¾÷
+"title5Gtitle°ÔÀÓÇÏ°í VR Ã¼ÇèÇÏ°í...¸ÅÀå¿¡¼­ KT ¼­ºñ½º Áñ±â¼¼¿ä"
+KT, µðÁöÅÐ´ºµô Á¤Ã¥ µû¶ó 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º'ÀÇ ±â¼ú °ËÁõ ¿Ï·á
+KT, µ¶¸³µÈ °¡»ó ³×Æ®¿öÅ©·Î ºÐ¸®ÇÏ´Â 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+KT, ¹ö¶óÀÌÁðº¸´ÙÆù µî ±Û·Î¹ú Åë½Å»ç¿Ítitle5GtitleÀ¶º¹ÇÕ Çù¾÷
+KT, ¹ö¶óÀÌÁðº¸´ÙÆù µî ±Û·Î¹ú Åë½Å»ç¿Ítitle5GtitleÀ¶º¹ÇÕ Çù¾÷
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ È®»ê¿¡ ¸ÂÃç 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+2022³âtitle5GtitleÀü±¹¸Á ±¸Ãà À§ÇØ ÀÌµ¿Åë½Å¾÷°è 25Á¶ ¿ø '°ø°ÝÀû ÅõÀÚ'
+"°¡¼ººñ °©" »þ¿À¹Ì, 40¸¸¿ø´ë '¹Ì10 ¶óÀÌÆ®title5Gtitle' ±¹³» Ãâ½Ã
+KT, Áß±¹¡¤È«Äá¿¡ 'title5GtitleKÆË ÄÜÅÙÃ÷' ¼öÃâ
+KT, Áß±¹¿¡title5Gtitle±â¹Ý KÆË »ýÁß°è ÄÜÅÙÃ÷ ¼öÃâ
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß ¿Ï·á
+KT, ¹ö¶óÀÌÁð?º¸´ÙÆù µî°útitle5GtitleÀ¶ÇÕ ¼­ºñ½º »ó¿ëÈ­
+KT, ¹ö¶óÀÌÁð?º¸´ÙÆù µî°útitle5GtitleÀ¶ÇÕ ¼­ºñ½º »ó¿ëÈ­
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+°¶³ëÆ®20 »ï¼ººÎÅÍ »þ¿À¹Ì, ¾ÖÇÃ±îÁö...title5Gtitle½º¸¶Æ®Æù Áø°Ë½ÂºÎ
+"title5GtitleÀÌ¾î 6G" »ï¼ºÀüÀÚ, 6G °ü·Ã ¹é¼­ °ø°³
+KT, 'title5Gtitle±â¾÷¸Á ½½¶óÀÌ½º' °³¹ß ¹× ±â¼ú°ËÁõ ¿Ï·á
+"title5GtitleÀÌ¾î 6G" »ï¼ºÀüÀÚ, 6G °ü·Ã ¹é¼­ °ø°³
+È­¿þÀÌ, ´ç»çtitle5GtitleÀåºñ »ç¿ë ±ÝÁö´Â ¿µ±¹ µðÁöÅÐ ¹ßÀü ÀúÇØ
+Åë½Å 4»ç,title5Gtitle'µðÁöÅÐ ´ºµô'¿¡ 25Á¶ ÅõÀÔ¡¦³ó¾îÃÌ ÀÎÇÁ¶ó °øµ¿ ±¸Ãà
+KT, ñé Â÷ÀÌ³ª¸ð¹ÙÀÏ¿¡title5GtitleÄÜÅÙÃ÷ ¼öÃâ
+KT, Â÷ÀÌ³ª¸ð¹ÙÀÏ¿¡title5Gtitle±â¹Ý »ýÁß°è K-ÄÜÅÙÃ÷ ÆÇ¸Å
+KT, Ç»Ã³Æ÷·³¼­title5GtitleMEC °øµ¿±â¼ú±Ô°Ý °³¹ß
+KT,title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º °³¹ß¡¦"¸ÂÃãÇü ³×Æ®¿öÅ© Á¦°ø"
+KT, Â÷ÀÌ³ª¸ð¹ÙÀÏ¿¡title5Gtitle±â¹Ý »ýÁß°è K-ÄÜÅÙÃ÷ ÆÇ¸Å
+KT, Ç»Ã³Æ÷·³¼­title5GtitleMEC °øµ¿±â¼ú±Ô°Ý °³¹ß
+5Gtitle³×Æ®¿öÅ© ±¸Ãà ¼±°á °úÁ¦ 'ÃÊÁö¿¬¼º'¡¤'È®Á¤¼º'¡¤'º¸¾È'
+"Ã¹ ¿Ü»êtitle5GtitleÆù" »þ¿À¹Ì '¹Ì10¶óÀÌÆ®' 17ÀÏ Ãâ½Ã¡¦45¸¸1000¿ø
+5Gtitle·Î 'µ¥ÀÌÅÍ °í¼Óµµ·Î' ±¸ÃàÇÑ´Ù...°ú±âÁ¤ÅëºÎ, Åë½Å3»ç¿Í Çù·Â ÃßÁø
+»ï¼ºÀüÀÚ,title5Gtitle³Ñ¾î 6G ½Ã´ë ÁÖµµÇÑ´Ù
+"title5GtitleÀ¶º¹ÇÕ »ç¾÷ µ½´Â´Ù"¡¦KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' ±â¼ú °ËÁõ ¿Ï·á
+40¸¸¿ø´ë »þ¿À¹Ìtitle5GtitleÆù, ¡®¿Ü»êÆù ¹«´ý¡¯ ùÛ ½ÃÀå ¶ÕÀ»±î
+"title5GtitleÀ¶º¹ÇÕ »ç¾÷ µ½´Â´Ù"¡¦KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' ±â¼ú °ËÁõ ¿Ï·á
+40¸¸¿ø´ë »þ¿À¹Ìtitle5GtitleÆù, ¡®¿Ü»êÆù ¹«´ý¡¯ ùÛ ½ÃÀå ¶ÕÀ»±î
+ÃÖ±â¿µ °ú±âÁ¤ÅëºÎ Àå°ü, Åë½Å3»ç¿Í °£´ãÈ¸..."title5Gtitleµ¥ÀÌÅÍ °í¼Óµµ·Î ±¸ÃàÇÏÀÚ"
+KT,title5Gtitle·Î ½ÅÀÎ ¾ÆÀÌµ¹ Áß±¹¿¡ ¼Ò°³ÇÑ´Ù
+KT,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+KT,title5Gtitle·Î ½ÅÀÎ ¾ÆÀÌµ¹ Áß±¹¿¡ ¼Ò°³ÇÑ´Ù
+KT, ±Û·Î¹ú Åë½Å»ç¿Í 'title5GtitleMEC' ±â¼ú ±Ô°Ý °³¹ß
+KT, µðÁöÅÐ ´ºµôÁ¤Ã¥ ¸ÂÃç ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+KT, ¹ö¶óÀÌÁð?º¸´ÙÆù µî°ú 'title5Gtitle¸ÖÆ¼ ¾×¼¼½º ¿§Áö ÄÄÇ»ÆÃ' ±Ô°Ý °³¹ß
+Åë½Å4»ç, 2022³âtitle5GtitleÀü±¹¸Á ±¸Ãà À§ÇØ 25Á¶¿ø ÅõÀÚ
+ÃÖ±â¿µ Àå°ü "title5GtitleÇ°Áú °³¼± ºÐ¹ßÇØ¾ß¡¦Á¤ºÎ Àû±Ø Áö¿ø"
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+KT,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+ÀÌÀç¿ë ºÎÈ¸Àå, ÀüÀå¿ë MLCC »ý»êÇöÀå Ã£¾Æ AI.title5Gtitle. Àü±âÂ÷ µî ½Å±â¼ú ´ëÀÀÀü...
+SKT,title5Gtitle¡¤AI·Î Àå¾ÖÀÎ ÀÏÀÚ¸® ´Ã¸°´Ù
+5Gtitle³Ñ¾î¼± 6G¡¦»ï¼ºÀüÀÚ°¡ °ø°³ÇÑ ¡®6G ¹é¼­¡¯
+KT,title5Gtitle±â¹Ý ÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+»ï¼ºÀüÀÚ "title5Gtitleº¸´Ù 50¹è ºü¸¥ 6G 2028³â »ó¿ëÈ­"
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß ¿Ï·á
+Áß±¹»êtitle5GtitleÆù ±¹³» Ã¹ Ãâ½Ã¡¦»þ¿À¹Ì ¡®¹Ì10 ¶óÀÌÆ®¡¯ °ø°³
+Áß±¹»êtitle5GtitleÆù ±¹³» Ã¹ Ãâ½Ã¡¦»þ¿À¹Ì ¡®¹Ì10 ¶óÀÌÆ®¡¯ °ø°³
+5Gtitle½º¸¶Æ®Æù ÀüÀÚÆÄ ÀÎÁõ »¡¶óÁø´Ù... 6°³¿ù¡æ40ÀÏ, 2ÁÖ¡æ1ÁÖ
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+KT, Áß±¹¡¤È«Äátitle5Gtitle±â¹Ý K-ÄÜÅÙÃ÷ »ýÁß°è ¼­ºñ½º ¼öÃâ
+KT, Áß±¹¡¤È«Äá¿¡title5Gtitle±â¹Ý K-ÄÜÅÙÃ÷ »ýÁß°è ¼­ºñ½º ¼öÃâÇÑ´Ù
+Âü¿©¿¬´ë, ÇÑ»óÇõ ÈÄº¸ÀÚ¿¡ 'ºÐ¸®°ø½ÃÁ¦¡¤title5GtitleºÒÅë' ´ëÃ¥ °ø°³ÁúÀÇ
+KT,title5GtitleÀ¶º¹ÇÕ¿ë 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+KT, ±Û·Î¹ú Åë½Å»ç¿Í Çù¾÷¡¦title5GtitleÀ¶º¹ÇÕ »ç¾÷ À§ÇÑtitle5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+KT, ±Û·Î¹ú Åë½Å»ç¿Ítitle5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+5Gtitle¡¦¼ÒºñÀÚ ¡®ºÒ¸¸¡¯ vs ÀÌÅë3»ç ¡®¿Ü±¹º¸´Ù ³´´Ù¡¯
+KT, ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß ¿Ï·á...ÇÏ³ªÀÇtitle5Gtitle³×Æ®¿öÅ© ´Ù¼ö·Î ºÐ¸®
+Åë½Å¾÷°è,title5Gtitle¸Á¿¡ 25Á¶¿ø ÅõÀÚ¡¦ "2022³â±îÁö Àü±¹¸Á ±¸ÃàÇÒ °Í"
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+KT, Â÷ÀÌ³ª¸ð¹ÙÀÏ ÀÚÈ¸»ç Migu¿¡title5Gtitle±â¹Ý »ýÁß°è K-ÄÜÅÙÃ÷ ÆÇ¸Å
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' ±â¼ú °³¹ß ¿Ï·á... ¸ÂÃãÇü ³×Æ®¿öÅ© ¼­ºñ½º Á¦°ø ...
+5GtitleÈÞ´ëÆù¡¤±âÁö±¹ ÀüÀÚÆÄ, ÀÎÃ¼¿¡ ÇØ·ÓÁö ¾Ê´Ù
+KT, ¹ö¶óÀÌÁð¡¤º¸´ÙÆù µî°ú ¼ÕÀâ°í 'title5GtitleMEC' ±â¼ú±Ô°Ý °³¹ß
+KT, ¹ö¶óÀÌÁð¡¤º¸´ÙÆù µî°ú ¼ÕÀâ°í 'title5GtitleMEC' ±â¼ú±Ô°Ý °³¹ß
+ÀÌÅë»ç, 'ÇÑ±¹ÆÇ ´ºµô' µ¿Âü¡¦title5GtitleÀÎÇÁ¶ó ±¸Ãà¿¡ 26Á¶ ÅõÀÔ
+ÀüÀÚÆÄ ÃøÁ¤ ½Ã°£ ´ÜÃà¡¦title5Gtitle½º¸¶Æ®Æù Ãâ½Ã »¡¶óÁø´Ù
+KT¡¤ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+KT,title5GtitleÀÚÀ²ÁÖÇà ÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø...¡°µµ½É ÁÖÂ÷³­ ÇØ¼Ò¡±
+ÃÖ±â¿µ Àå°ü, ÀÌÅë3»ç ´ëÇ¥ ¸¸³ª "title5GtitleÃ¼°¨Ç°Áú °³¼± ³ë·ÂÇØ ´Þ¶ó"
+È­¿þÀÌ Àåºñ ¹èÁ¦ ³ª¼­´Â °¢±¹¡¦ ùÛtitle5GtitleÅë½ÅÀåºññ», ¹Ý»çÀÌÀÍ ±â´ë°¨ ¡è
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß¡¦¸ÂÃã ³×Æ®¿öÅ© Á¦°ø
+KT,title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º °³¹ß¡¦¸ÂÃãÇü ³×Æ®¿öÅ© Á¦°ø
+KT,title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º °³¹ß¡¦¸ÂÃãÇü ³×Æ®¿öÅ© Á¦°ø
+KT, ±Û·Î¹ú Åë½Å»ç Çù¾÷title5Gtitle±Ô°Ý¡¤°¡ÀÌµå¶óÀÎ °ø°³
+ÀÌÅë3»ç ¼öÀåµé, ÃÖ±â¿µ Àå°ü ¸¸³ª ¡°2022³â±îÁötitle5Gtitle¿¡ 25Á¶ Á¶±â ÅõÀÚ¡± ¾à¼Ó
+KT, ±Û·Î¹ú Åë½Å»çµé°útitle5GtitleÀ¶º¹ÇÕ »ç¾÷ À§ÇÑ ±â¼ú ±Ô°Ý °³¹ß
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß...¸ÂÃãÇü ³×Æ®¿öÅ© ¼­ºñ½º Á¦°ø
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+±¹¸³ÀüÆÄ¿¬±¸¿ø,title5GtitleÆù ÀüÀÚÆÄ ÃøÁ¤½Ã°£ ´ÜÃà
+U.K. Bars Huawei fortitle5Gtitleas Tech Battle Between China and the West Escala...
+»þ¿À¹Ì, ¹Ì10 ¶óÀÌÆ®title5Gtitle±¹³» Ãâ½Ã¡¦¿À´Â 16ÀÏ±îÁö »çÀü¿¹¾à ÆÇ¸Å
+çÈ,title5Gtitle¼­ ñéÈ­¿þÀÌ ¹èÁ¦¡¦2027³â±îÁö ±âÁ¸ Àåºñµµ ÅðÃâ
+ÇÑ±¹Å×Å©³î·ÎÁö, °¡¼ººñ ÁÁÀºtitle5GtitleÆùÀÇ ¼ÒºñÀÚ ¼±ÅÃ±Ç È®´ë
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø ¸¶·Î·Îº¿Å×Å©°útitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+¿µ±¹, È­¿þÀÌtitle5GtitleÀåºñ ÅðÃâ ¼±¾ð¡¦È­¿þÀÌ ¡°Á¤Ä¡Àû °áÁ¤, Àç°íÇÏ¶ó¡±
+KT,title5GtitleMEC ±â¼ú±Ô°Ý¡¤°¡ÀÌµå¶óÀÎ °³¹ß¡¦³»´Þ ¹èÆ÷
+KT,title5GtitleMEC ±â¼ú±Ô°Ý¡¤°¡ÀÌµå¶óÀÎ °³¹ß¡¦³»´Þ ¹èÆ÷
+IBM-¹ö¶óÀÌÁð,title5Gtitle+¿§ÁöÄÄÇ»ÆÃÀ¸·Î »ê¾÷ IoT ½ÃÀå °ø·« ¸Â¼Õ
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+"title5GtitleÈÞ´ëÀüÈ­ Á¦Ç° Ãâ½Ã ¾Õ´ç±ä´Ù"
+ÇÁ¸®¹Ì¾ötitle5GtitleÆù Àü¼º½Ã´ë¡¦¹»·Î ¹Ù²Ü±î?
+»ï¼ºÀüÀÚ,title5Gtitleº¸´Ù 50¹è ºü¸¥ 6G ½Ã´ë ÁÖµµ
+ÆÇ Ä¿Áö´Âtitle5GtitleÁßÀú°¡Æù °æÀï¿¡ ñé »þ¿À¹Ì 'ÂüÀü'¡¦45¸¸1000¿ø!
+¿Ã´ñÆù, °¶·°½Ã³ëÆ®20 »çÀü¿¹¾à ÁøÇà¡¦°¶·°½ÃS10title5Gtitle¡¤°¶·°½ÃA80 °¡°Ý ÃÖ´ë 10...
+KT-ºÎÃµ»ê¾÷ÁøÈï¿ø-¸¶·Î·Îº¿Å×Å©,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+»þ¿À¹Ì, 40¸¸¿ø´ëtitle5Gtitle½º¸¶Æ®Æù '¹Ì10 ¶óÀÌÆ®title5Gtitle' ±¹³» Ãâ½Ã
+"title5Gtitle¿ä±Ý ºÎ´ã¿¡"¡¦ ¿ä±ÝÁ¦¸¸ LTE·Î 'À¯ÅÏ'
+KT, ±Û·Î¹ú Åë½Å»ç¿Ítitle5GtitleÀ¶º¹ÇÕ »ç¾÷ À§ÇÑ 'title5GtitleMEC ±â¼ú ±Ô°Ý'°³¹ß
+KT, Â÷ÀÌ³ª¸ð¹ÙÀÏ¿¡title5Gtitle±â¹Ý 'K-ÄÜÅÙÃ÷' »ýÁß°è ¼­ºñ½º ¼öÃâ
+»þ¿À¹Ì, '¹Ì10 ¶óÀÌÆ®title5Gtitle' ±¹³» °ø½Ä Ãâ½Ã
+Ã¹title5Gtitle¾ÆÀÌÆùºÎÅÍ LG ÁßÀú°¡Æù±îÁö...¿Ã ÇÏ¹Ý±âtitle5GtitleÆù °æÀï 'ÈÄ²ö'
+KT, ¹ö¶óÀÌÁð?º¸´ÙÆù µî ±Û·Î¹ú Åë½Å»ç¿Í Çù¾÷...title5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+KT, ¹ö¶óÀÌÁð?º¸´ÙÆù µî ±Û·Î¹ú Åë½Å»ç¿Í Çù¾÷...title5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+ÀÌÅë3»ç CEO, 2022³â±îÁötitle5GtitleÀü±¹¸Á ±¸Ãà¿¡ 25.7Á¶¿ø ÅõÀÚ
+[´õº§]ÇÑ±¹Å×Å©, »þ¿À¹Ì '¹Ì 10 ¶óÀÌÆ®title5Gtitle' 17ÀÏ Ãâ½Ã
+KT,title5Gtitle¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ Ãâ½Ã À§ÇØ ±â¼ú °ËÁõ ¸¶ÃÄ
+"title5Gtitleµµ ÃÊ±âÀÎµ¥"¡¦ IT¾÷°è°¡ ¹ú½á '6G ½Ã´ë' ÁØºñÇÏ´Â ÀÌÀ¯
+[OBS ºñÁîÅõµ¥ÀÌ] KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' ±â¼ú °³¹ß èâ
+"À¶º¹ÇÕ »ç¾÷ ¼ö¿ä ´ëÀÀ"...KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+»þ¿À¹Ì, 40¸¸¿ø´ëtitle5GtitleÆù ¡®¹Ì10¶óÀÌÆ®¡¯ ±¹³» Ãâ½Ã
+»ï¼ºÀüÀÚ "title5GtitleÀÌ¾î 6G ÁÖµµ"¡¦ 'ÃÊ¿¬°á' °æÇè Á¦°ø
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+KT, ¹ö¶óÀÌÁð¡¤º¸´ÙÆù µî ±Û·Î¹ú Åë½Å»ç¿Ítitle5GtitleMEC ±â¼ú ±Ô°Ý °øµ¿°³¹ß
+5GtitleÈÞ´ëÀüÈ­ Ãâ½Ã »¡¶óÁø´Ù
+¾Ë¶ãÆùtitle5Gtitle°¡ÀÔÀÚ °íÀÛ 1300¸í¡¦"¾ÆÀÌÆù12¸¸ ±â´Ù¸°´Ù"
+"title5Gtitle³Ñ¾î 6G" »ï¼ºÀüÀÚ, 6G ¹é¼­ °ø°³
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+"title5Gtitle³Ñ¾î 6G" »ï¼ºÀüÀÚ, 6G ¹é¼­ °ø°³
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+¡°title5Gtitle½Ã´ë ¼±µµÇÒ Çõ½ÅÀûÀÎ µð¹ÙÀÌ½º ¾ÆÀÌµð¾î Ã£¾Æ¿ä¡±
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+»þ¿À¹Ì,title5Gtitle½º¸¶Æ®Æù ¡®¹Ì10 ¶óÀÌÆ®title5Gtitle¡¯ ±¹³» Ãâ½Ã...Ãâ½Ã°¡ 45¸¸ ¿ø´ë
+ùÛ °ø·« ÆÈ °ÈÀº »þ¿À¹Ì¡¦'ÃÖÀú°¡title5GtitleÆù+IoT' ¾Õ¼¼¿ö Áß±¹»ê ²¿¸®Ç¥ ¶¿±î
+ùÛ °ø·« ÆÈ °ÈÀº »þ¿À¹Ì¡¦'ÃÖÀú°¡title5GtitleÆù+IoT' ¾Õ¼¼¿ö Áß±¹»ê ²¿¸®Ç¥ ¶¿±î
+È­¿þÀÌtitle5GtitleÀåºñ Ã¶°Å °áÁ¤¿¡...È­¿þÀÌ "çÈ, Áøº¸ ´ë½Å Åðº¸ ¼±ÅÃ"
+5GtitleÀüÀÚÆÄ ÃøÁ¤½Ã°£ ´ÜÃà¡¦"title5GtitleÈÞ´ëÆù Ãâ½Ã »¡¶óÁø´Ù"
+ÀÌÅë»ç, 2022³â±îÁötitle5GtitleÀÎÇÁ¶ó¿¡ 25Á¶¿ø ÅõÀÚ
+Åë½Å¾÷°è, 2022³â±îÁötitle5GtitleÀü±¹¸Á ±¸Ãà¡¦25Á¶¿ø ÅõÀÚ
+KT, ¿øµµ½É ÁÖÂ÷³­ ÇØ¼Ò 'title5GtitleÁÖÂ÷·Îº¿'»ó¿ëÈ­ ÃßÁø
+Ú¸ ½ÌÅ©ÅÊÅ© "°¶·°½ÃA ÄöÅÒ,title5Gtitleº¸¾È ¿ª»ç¿¡ È¹±âÀû »ç°Ç"
+KT, ¿øµµ½É ÁÖÂ÷³­ ÇØ¼Ò 'title5GtitleÁÖÂ÷·Îº¿'»ó¿ëÈ­ ÃßÁø
+Ú¸ ½ÌÅ©ÅÊÅ© "°¶·°½ÃA ÄöÅÒ,title5Gtitleº¸¾È ¿ª»ç¿¡ È¹±âÀû »ç°Ç"
+Áß±¹title5GtitleÆù °ø½À¡¦ÀÌÅë3»ç '¹Ì10¶óÀÌÆ®' ±¹³» Ãâ½Ã "ÀÌ·ÊÀû"
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+SKÅÚ·¹ÄÞ ÁÖ½Ä ¸Å¼öÀÇ°ß À¯Áö, "title5Gtitle°¡ÀÔÀÚ ´Ã°í 2G ¼­ºñ½º Á¾·á"
+½ÅÀÎ ¾ÆÀÌµ¹, KTtitle5GtitleÅ¸°í ³¯¾Æ Áß±¹ ÆÒ ¸¸³­´Ù
+½ÅÀÎ ¾ÆÀÌµ¹, KTtitle5GtitleÅ¸°í ³¯¾Æ Áß±¹ ÆÒ ¸¸³­´Ù
+'»ï¼º-¾ÖÇÃ-»þ¿À¹Ì' ÇÏ¹Ý±âtitle5Gtitle½º¸¶Æ®Æù ½ÃÀåÀ» ÀÐ´Â ¼¼°¡Áö °üÀü Æ÷ÀÎÆ®?
+KT, »ç³» ¸Á ºÐ¸® 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+[¿µ»ó] Åë½Å3»ç ¸¸³­ ÃÖ±â¿µ "µðÁöÅÐ ´ºµô ÇÙ½É 'title5Gtitle' Ç°Áú°³¼± ºÐ¹ßÇØ´Þ¶ó"
+»ï¼ºÀüÀÚ,title5Gtitle³Ñ¾î 6G ÁÖµµ ³ª¼±´Ù¡¦"»õ·Î¿î Â÷¿ø ÃÊ¿¬°á °æÇè Á¦°ø"
+µðÁöÅÐ´ºµô Á¤Ã¥¿¡¡¦KT,title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º °³¹ß
+µðÁöÅÐ´ºµô Á¤Ã¥¿¡¡¦KT,title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º °³¹ß
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷ ÃßÁø
+KT,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ º»°Ý ÃßÁø
+¿µ±¹,title5Gtitle¼­ È­¿þÀÌ Àåºñ ±¸ÀÔ ±ÝÁö¡¦4G µî ±âÁ¸ Àåºñµµ 2027³â±îÁö »ç¿ë Áß´Ü
+ÇÑ±¹Å×Å©³î·ÎÁö, »þ¿À¹Ì ÃÖÃÊtitle5Gtitle½º¸¶Æ®Æù Ãâ½Ã¡¦13ÀÏºÎÅÍ »çÀü¿¹¾à
+KT,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+»ï¼ºÀüÀÚ,title5GtitleÀÌ¾î 6G ½Ã´ë ÁÖµµ¡¦¹Ì·¡ ÁØºñ ¹ÚÂ÷
+»þ¿À¹Ì, ¹Ì10¶óÀÌÆ®title5Gtitle±¹³» Ã¹ Ãâ½Ã¡¦°¡¼ººñ·Î ÇÑ±¹ ½ÃÀå °ø·«
+5GtitleÈÞ´ëÆù ÀüÀÚÆÄ ÃøÁ¤ ½Ã°£ LTE ¼öÁØÀ¸·Î ´ÜÃà
+Åë½Å¾÷°è, 'µðÁöÅÐ ´ºµô' Áö¿ø¡¤¡¤¡¤title5Gtitle±¸Ãà¿¡ 25Á¶ ÅõÀÚ
+KT-ºÎÃµ»ê¾÷ÁøÈï¿ø-¸¶·Î·Îº¿Å×Å©,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­¿¡ ¹¶ÃÆ´Ù
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß¡¦ ±â¾÷ ¸ÂÃãÇü ¸Á ºÐ¸® ±â¼ú Áö¿ø
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' ±â¼ú °³¹ß¿Ï·á
+KT, Â÷ÀÌ³ª¸ð¹ÙÀÏ°ú ¸Â¼Õ¡¦"½ÅÀÎ¾ÆÀÌµ¹title5Gtitle»ýÁß°è·Î ñé ÁøÃâ"
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø°útitle5GtitleÁÖÂ÷·Îº¿ °³¹ß ÃßÁø
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+'title5Gtitle»ïÁß°í' Åë½ÅÁÖ, ÇÏ¹Ý±â ±âÁö°³ Æî±î
 SK, KT, LG to invest W 25.7 tril. intitle5Gtitlenetwork
-ê°¤ë…¸íŠ¸20 ì‚¼ì„±ë¶€í„° ìƒ¤ì˜¤ë¯¸, ì• í”Œê¹Œì§€...title5GtitleìŠ¤ë§ˆíŠ¸í° ì§„ê²€ìŠ¹ë¶€
-í•œêµ­í…Œí¬ë†€ë¡œì§€, ê°€ì„±ë¹„ ì¢‹ì€title5Gtitleí°ì˜ ì†Œë¹„ìž ì„ íƒê¶Œ í™•ëŒ€
-ì´í†µ3ì‚¬,title5Gtitleì¸í”„ë¼ì— ê³µê²©ì  íˆ¬ìžâ€¦ ìµœê¸°ì˜ ìž¥ê´€ "title5Gtitleí’ˆì§ˆ ë†’ì—¬ë‹¬ë¼"
-"ì‚°ì—… ëª©ì ì— ë§žê²Œtitle5Gtitleë§ ì„¸ë¶„í™”"â€¦KT, ë””ì§€í„¸ ë‰´ë”œ ë§žì¶° ì‹ ê¸°ìˆ  ìƒìš©í™”
-KT, ë…ë¦½ëœ ê°€ìƒ ë„¤íŠ¸ì›Œí¬ë¡œ ë¶„ë¦¬í•˜ëŠ” 'title5Gtitleê¸°ì—… ë§ ìŠ¬ë¼ì´ìŠ¤' ê°œë°œ
-KT,title5Gtitleìœµë³µí•© ì‚¬ì—… í™•ì‚°ì— ë§žì¶° 'title5Gtitleê¸°ì—… ë§ ìŠ¬ë¼ì´ìŠ¤' ê°œë°œ
-KT, 'title5Gtitleê¸°ì—…ë§ ìŠ¬ë¼ì´ìŠ¤' ê°œë°œâ€¦ë§ë¶„ë¦¬ë¡œ ì—…ë¬´ ìµœì í™”
-ì˜êµ­, í™”ì›¨ì´title5Gtitleìž¥ë¹„ í‡´ì¶œ ì„ ì–¸â€¦í™”ì›¨ì´ â€œì •ì¹˜ì  ê²°ì •, ìž¬ê³ í•˜ë¼â€
-KT, ë¶€ì²œì‚°ì—…ì§„í¥ì›Â·ë§ˆë¡œë¡œë´‡í…Œí¬ì™€title5Gtitleì£¼ì°¨ë¡œë´‡ ì‚¬ì—…í™” ì¶”ì§„
-KT, 'title5Gtitleê¸°ì—…ë§ ìŠ¬ë¼ì´ìŠ¤' ê°œë°œâ€¦ë„¤íŠ¸ì›Œí¬ ìµœì í™” ì§€ì›
-KT, ë¶€ì²œì‚°ì—…ì§„í¥ì›Â·ë§ˆë¡œë¡œë´‡í…Œí¬ì™€title5Gtitleì£¼ì°¨ë¡œë´‡ ì‚¬ì—…í™” ì¶”ì§„
-KT, ë””ì§€í„¸ ë‰´ë”œì •ì±… ë§žì¶° â€˜title5Gtitleê¸°ì—… ë§ ìŠ¬ë¼ì´ìŠ¤â€™ ê°œë°œ
-"ê¸°ì—… ë‚´title5Gtitleí†µì‹ ë§ ìª¼ê°œì„œ ìš´ì˜" KT, 'ë§ ìŠ¬ë¼ì´ìŠ¤' ê²€ì¦ ì™„ë£Œ
-KT,title5Gtitleìœµë³µí•©ìš© 'title5Gtitleê¸°ì—… ë§ ìŠ¬ë¼ì´ìŠ¤' ê°œë°œ
-KT,title5Gtitleê¸°ì—… ë§ ìŠ¬ë¼ì´ìŠ¤ ê°œë°œâ€¦"ë§žì¶¤í˜• ë„¤íŠ¸ì›Œí¬ ì œê³µ"
-è‹±,title5Gtitleì„œ ä¸­í™”ì›¨ì´ ë°°ì œâ€¦2027ë…„ê¹Œì§€ ê¸°ì¡´ ìž¥ë¹„ë„ í‡´ì¶œ
-5Gtitleë„˜ì–´ì„  6Gâ€¦ì‚¼ì„±ì „ìžê°€ ê³µê°œí•œ â€˜6G ë°±ì„œâ€™
-KT,title5Gtitleìœµë³µí•© ì‚¬ì—… ìˆ˜ìš” ë§žì¶° 'title5Gtitleê¸°ì—… ë§ ìŠ¬ë¼ì´ìŠ¤' ê°œë°œ
-KT-ë¶€ì²œì‚°ì—…ì§„í¥ì›-ë§ˆë¡œë¡œë´‡í…Œí¬,title5Gtitleì£¼ì°¨ë¡œë´‡ ì‚¬ì—…í™”ì— ë­‰ì³¤ë‹¤
-"title5Gtitleê¸°ë°˜ K-ì½˜í…ì¸  ì¤‘êµ­ ìˆ˜ì¶œí•œë‹¤"...KT, ì°¨ì´ë‚˜ëª¨ë°”ì¼ê³¼ 'ë§žì†'
-5Gtitleí° ì œí’ˆì¶œì‹œ ë¹¨ë¼ì§„ë‹¤...ì „ìžíŒŒ ì¸¡ì •ì‹œê°„ ë‹¨ì¶•
-'ë°ì´í„°Â·title5GtitleÂ·ì¸ê³µì§€ëŠ¥Â·ìŠ¤ë§ˆíŠ¸ ì˜ë£Œ' í‚¤ì›Œë“œë¡œ ëŒ€ì „í™˜ ì˜ˆê³ 
-"title5Gtitleìœµë³µí•© ì‚¬ì—… ë•ëŠ”ë‹¤"â€¦KT, 'title5Gtitleê¸°ì—… ë§ ìŠ¬ë¼ì´ìŠ¤' ê¸°ìˆ  ê²€ì¦ ì™„ë£Œ
-"title5Gtitleë„ ì´ˆê¸°ì¸ë°"â€¦ ITì—…ê³„ê°€ ë²Œì¨ '6G ì‹œëŒ€' ì¤€ë¹„í•˜ëŠ” ì´ìœ 
-í™”ì›¨ì´title5Gtitleìž¥ë¹„ ì² ê±° ê²°ì •ì—...í™”ì›¨ì´ "è‹±, ì§„ë³´ ëŒ€ì‹  í‡´ë³´ ì„ íƒ"
-KT, 'title5Gtitleê¸°ì—… ë§ ìŠ¬ë¼ì´ìŠ¤' ê°œë°œ...ë§žì¶¤í˜• ë„¤íŠ¸ì›Œí¬ ì„œë¹„ìŠ¤ ì œê³µ
-ìƒ¤ì˜¤ë¯¸, 40ë§Œì›ëŒ€title5GtitleìŠ¤ë§ˆíŠ¸í° 'ë¯¸ 10 ë¼ì´íŠ¸title5Gtitle' ê³µê°œ
-5GtitleìŠ¤ë§ˆíŠ¸í° ì „ìžíŒŒ ì‹œí—˜ ê°„ì†Œí™”â€¦28GHzê¸‰ ì œí’ˆ ì¶œì‹œ ì•žë‹¹ê¸´ë‹¤
-KT, ì¤‘êµ­ ì°¨ì´ë‚˜ëª¨ë°”ì¼ì—title5Gtitleê¸°ë°˜ KíŒ ìƒì¤‘ê³„ ì½˜í…ì¸  ìˆ˜ì¶œ
-KT,Â ì°¨ì´ë‚˜ëª¨ë°”ì¼ ìžíšŒì‚¬Â Miguì—title5Gtitleê¸°ë°˜Â ìƒì¤‘ê³„ K-ì½˜í…ì¸  ì •ì‹ íŒë§¤
-KT, ë¶€ì²œì‚°ì—…ì§„í¥ì›ê³¼title5Gtitleì£¼ì°¨ë¡œë´‡ ê°œë°œ ì¶”ì§„
+KT, ºÎÃµ½Ã¡¤¸¶·Î·Îº¿Å×Å©¿Í 'title5GtitleÁÖÂ÷·Îº¿' »ç¾÷ ¸Â¼Õ
+KT, ºÎÃµ½Ã¡¤¸¶·Î·Îº¿Å×Å©¿Í 'title5GtitleÁÖÂ÷·Îº¿' »ç¾÷ ¸Â¼Õ
+»þ¿À¹Ì, Ã¹ ¿Ü»êtitle5Gtitle½º¸¶Æ®Æù '¹Ì10 ¶óÀÌÆ®' Ãâ½Ã¡¦Àú°¡ ¸¶ÄÉÆÃÀ¸·Î µµÀüÀå
+KT, Áß±¹ Â÷ÀÌ³ª¸ð¹ÙÀÏ¿¡title5Gtitle±â¹Ý ½ÅÀÎ ¾ÆÀÌµ¹ K-ÄÜÅÙÃ÷ ¼öÃâÇÑ´Ù
+ÃÖ±â¿µ ¸¸³ª´Â ÀÌÅë3»ç CEO,title5GtitleÁßÀú°¡¿ä±ÝÁ¦ ¾Ð¹Ú¿¡ ÀÀ´äÇÏ³ª
+KT, 'title5Gtitle¸ÖÆ¼ ¾×¼¼½º ¿¡Áö ÄÄÇ»ÆÃ' ±â¼ú ±Ô°Ý °³¹ß...title5GtitleÀ¶ÇÕ ¼­ºñ½º »ó¿ëÈ­ ...
+KT, ±Û·Î¹ú Åë½Å»ç Çù¾÷À¸·Î ¡®title5GtitleMEC ±â¼ú ±Ô°Ý¡¯ °³¹ß ¿Ï·á
+¿µ±¹ Á¤ºÎ "È­¿þÀÌtitle5GtitleÀåºñ 2027³â±îÁö Àåºñ ¸ðµÎ Ã¶°Å"
+'µ¥ÀÌÅÍ¡¤title5Gtitle¡¤ÀÎ°øÁö´É¡¤½º¸¶Æ® ÀÇ·á' Å°¿öµå·Î ´ëÀüÈ¯ ¿¹°í
+5GtitleÈÞ´ëÀüÈ­ ½ÅÁ¦Ç° Ãâ½Ã »¡¶óÁø´Ù
+´º¹ö½ºÆù, ¾ÆÀÌÆù12title5GtitleÃâ½Ã¼Ò½Ä ÀüÇÏ¸ç ¾ÆÀÌÆù11 ÇÁ·Î ¹× SE2 °¡°Ý ÇÒÀÎ ÇÁ·Î...
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+5Gtitle·Îº¿ °øµéÀÌ´Â KT, ÀÌ¹ø¿£ 'ÁÖÂ÷·Îº¿' °³¹ßÇÑ´Ù
+ñé »þ¿À¹Ì, 40¸¸¿ø´ëtitle5GtitleÆù ùÛ Ãâ½Ã¡¦'2³â ¹«»ó AS'·Î ½ÂºÎ¼ö
+SKT, ´ö¼ö±Ãtitle5GtitleÁ¡ÇÁ VR °ø°³
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+UK's ban on Huawei gear could boost Samsungtitle5G
+KT,title5GtitleÁÖÂ÷·Îº¿À¸·Î µµ½É ÁÖÂ÷³­°ú ºÒÆí ÇØ¼Ò ³ª¼±´Ù
+KT, Áß±¹ Â÷ÀÌ³ª¸ð¹ÙÀÏ¿¡title5Gtitle±â¹Ý KÆË »ýÁß°è ÄÜÅÙÃ÷ ¼öÃâ
+KT, Áß±¹ Â÷ÀÌ³ª¸ð¹ÙÀÏ¿¡title5Gtitle±â¹Ý KÆË »ýÁß°è ÄÜÅÙÃ÷ ¼öÃâ
+KT,title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º ±â¼ú °³¹ß¡¦±â¼ú°ËÁõ ¿Ï·á
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5Gtitle±â¹Ý ÁÖÂ÷·Îº¿ »ç¾÷ ÃßÁø
+KT ¡®title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º¡¯ °³¹ß
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ 'title5GtitleMEC ±â¼ú ±Ô°Ý' °³¹ß...¹ö¶óÀÌÁð?º¸´ÙÆù°ú Çù¾÷
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+¡°title5GtitleÈÞ´ëÀüÈ­ Á¦Ç° Ãâ½Ã°¡ »¡¶óÁø´Ù¡±
+ÅÚ¸´, 28§× Áö¿øtitle5Gtitle¸ðµâ·Î ùÛ ½ÃÀå °³Ã´ '¹ÚÂ÷'
+ÇÏ¹Ý±âtitle5GtitleÆù ´ë¶õ ÀÏ¾î³­´Ù¡¦°¶³ëÆ®20¿¡title5Gtitle¾ÆÀÌÆù±îÁö Ãâ½Ã ÀÓ¹Ú
+[IPO] ¿ÍÀÌÆÊ ¡°¼¼°è¿¡¼­ ÀÎÁ¤¹Þ´Âtitle5Gtitle¹«¼±ÁÖÆÄ¼ö ºÎÇ° Á¦Á¶±â¾÷µÇ°Ú´Ù¡±
+»ï¼º,title5GtitleÀÌ¾î '6G' ½Ã´ë ¾ÕÀå¡¦"»õ·Î¿î Â÷¿øÀÇ ÃÊ¿¬°á °æÇè"
+»ï¼º,title5GtitleÀÌ¾î '6G' ½Ã´ë ¾ÕÀå¡¦"»õ·Î¿î Â÷¿øÀÇ ÃÊ¿¬°á °æÇè"
+¿ÍÀÌÆÄÀÌ 6E¿Í 6ÀÇ Â÷ÀÌÁ¡°útitle5Gtitle¿ÍÀÇ °ü°è
+»ï¼ºÀüÀÚ,title5Gtitleº¸´Ù 50¹è ºü¸¥ ¡®6G ½Ã´ë¡¯ ÁÖµµÇÑ´Ù
+KT-ºÎÃµ»ê¾÷ÁøÈï¿ø,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ MOU
+KT, ¹ö¶óÀÌÁð¡¤º¸´ÙÆù µî ±Û·Î¹ú Åë½Å»ç¿Í Çù¾÷¡¦title5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+"title5Gtitle±â¹Ý K-ÄÜÅÙÃ÷ Áß±¹ ¼öÃâÇÑ´Ù"...KT, Â÷ÀÌ³ª¸ð¹ÙÀÏ°ú '¸Â¼Õ'
+çÈ ¡®title5GtitleÅðÃâ¡¯ Âø¼ö¿¡ È­¿þÀÌ ¡°¿¬±âÇØ´Þ¶ó¡±
+°ú±âÁ¤ÅëºÎ,title5GtitleÈÞ´ëÀüÈ­ 'ÀüÀÚÆÄ' ÃøÁ¤½Ã°£ ´ÜÃà
+5Gtitleµµ ¾ÆÁ÷ÀÎµ¥¡¦»ï¼ºÀüÀÚ Â÷¼¼´ë Åë½Å ±â¼ú ºñÀü ´ãÀº '6G ¹é¼­' °ø°³
+KT,title5GtitleÀ¶º¹ÇÕ ¼ö¿ä ¸ÂÃá 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+KT, ÇØ¿Ü Åë½Å»çµé°útitle5GtitleMEC °øµ¿ ±â¼ú±Ô°Ý¡¤°¡ÀÌµå¶óÀÎ ¸¶·Ã
+»þ¿À¹Ì, ±¹³»½ÃÀå ÁøÀÔ ÀÌÈÄ Ã¹title5Gtitle½º¸¶Æ®Æù ¡®¹Ì10 ¶óÀÌÆ®title5Gtitle¡¯ ±¹³» Ãâ½Ã
+KT, ¿øµµ½É ÁÖÂ÷³­ ÇØ¼Ò À§ÇÑtitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ÇÑ´Ù
+5GtitleÄÜÅÙÃ÷ 'KT ¶óÀÌºê ½ºÅ×ÀÌÁö' ñé È¸»ç¿¡ ÆÇ¸Å°è¾à Ã¼°á
+5GtitleÄÜÅÙÃ÷ 'KT ¶óÀÌºê ½ºÅ×ÀÌÁö' ñé È¸»ç¿¡ ÆÇ¸Å°è¾à Ã¼°á
+KT, ¹ö¶óÀÌÁð?º¸´ÙÆù µî ±Û·Î¹ú Åë½Å»ç¿Í Çù¾÷¡¦title5GtitleÀ¶º¹ÇÕ »ç¾÷ À§ÇÑtitle5GtitleMEC...
+"Áö±Ýtitle5GtitleÅ³·¯¾ÛÀ» Ã£´Â °Ç ¼Ò¿ë ¾ø´Â ÀÏÀÌ´Ù"
+KT,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+»ï¼ºÀüÀÚ,title5Gtitleº¸´Ù 50¹è ºü¸¥ '6G Åë½Å ±â¼ú ¹é¼­' °ø°³
+çÈ ¡°title5GtitleÈ­¿þÀÌ ´Ü°èÀû ÅðÃâ °èÈ¹ ¹àÈú °Í¡±
+KT,title5GtitleÀ¶º¹ÇÕ »ç¾÷ ¼ö¿ä ¸ÂÃç 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+"title5Gtitle³Ñ¾î 6G ½Ã´ë·Î" ¹ú½á ±â¹Ý ´Û´Â »ï¼º
+»þ¿À¹Ì, ùÛtitle5GtitleÆù ½ÃÀå¿¡ µµÀüÀå...45¸¸¿ø´ë '¹Ì10¶óÀÌÆ®' Ãâ½Ã
+È­¿þÀÌtitle5Gtitle'¿ÏÀü ¹èÁ¦' ¼±ÅÃÇÑ ¿µ±¹¡¦»ï¼º ¿µÇâÀº?
+"title5Gtitle³Ñ¾î 6G ½Ã´ë·Î" »ï¼ºÀüÀÚ '6G¹é¼­' °ø°³...³»³â Ç¥ÁØÈ­ Âø¼ö
+5GtitleÆù¡¤±âÁö±¹ ÀüÀÚÆÄ ÀÎÃ¼º¸È£±âÁØ ¸¸Á·
+ÀÌÅë»ç, 'µ¥ÀÌÅÍ °í¼Óµµ·Î'title5Gtitle±¸Ãà¿¡ 25.7Á¶ ½ñ¾Æº×´Â´Ù
+¿µ±¹, È­¿þÀÌtitle5Gtitle³×Æ®¿öÅ© Àåºñ ÅðÃâ ¹ßÇ¥.. 2027³â±îÁö ¸ðµÎ Á¦°Å
+ADI¡¤ÀÎÅÚ,title5Gtitle³×Æ®¿öÅ©?¼³°è¿ë?¹«¼±?ÇÃ·§Æû?°³¹ß
+KT, 'µðÁöÅÐ ´ºµô' Á¤Ã¥ ¹ß¸ÂÃç 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+KT, ¹ö¶óÀÌÁð µî ±Û·Î¹ú Åë½Å»çµé°ú 'title5GtitleMEC' ±â¼ú ±Ô°Ý °³¹ß
+KT,title5GtitleÀ¶º¹ÇÕ¡¤¸ÂÃãÇü ³×Æ®¿öÅ©...'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß
+5Gtitle¸Á ±¸Ãà¿¡ 25Á¶¿ø ÅõÀÚÇÏ´Â ÀÌÅë3»ç¡¦28GHz ´ë¿ª »ó¿ëÈ­µµ ÃßÁø
+ÀÌÅë3»ç,title5GtitleÀÎÇÁ¶ó¿¡ °ø°ÝÀû ÅõÀÚ¡¦ ÃÖ±â¿µ Àå°ü "title5GtitleÇ°Áú ³ô¿©´Þ¶ó"
+ÀÌÅë3»ç,title5GtitleÀÎÇÁ¶ó¿¡ °ø°ÝÀû ÅõÀÚ¡¦ ÃÖ±â¿µ Àå°ü "title5GtitleÇ°Áú ³ô¿©´Þ¶ó"
+KT-ºÎÃµ»ê¾÷ÁøÈï¿ø-¸¶·Î·Îº¿Å×Å©,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+½ÅÀÎ ¾ÆÀÌµ¹, KTtitle5GtitleÅ¸°í ³¯¾Æ Áß±¹ ÆÒ ¸¸³­´Ù
+5Gtitle½ÅÁ¦Ç° Ãâ½Ã LTE¸¸Å­ »¡¶óÁø´Ù
+KT,?Â÷ÀÌ³ª¸ð¹ÙÀÏ ÀÚÈ¸»ç?Migu¿¡title5Gtitle±â¹Ý?»ýÁß°è K-ÄÜÅÙÃ÷ Á¤½Ä ÆÇ¸Å
+[ÀÏ¹®ÀÏ´ä] °ú±âÁ¤ÅëºÎ "title5GtitleÀü±¹¸Á Á¶±â±¸Ãà À§ÇØ ±âÀçºÎ¡¤±¹ÅäºÎ¿Í ÇùÀÇ Áß"
+¡°¸¶½ºÅ© Ã¶½ÉÀÌtitle5GtitleÀüÀÚÆÄ Èí¼ö?"title5GtitleÀ½¸ð·Ð Àç¹ß
+SKÅÚ·¹ÄÞ,title5Gtitle¡¤AI·Î Àå¾ÖÀÎ ÀÏÀÚ¸® ´Ã¸°´Ù
+5GtitleÈÞ´ëÀüÈ­ ÀüÀÚÆÄ ³ëÃâ·® ÃøÁ¤°á°ú '±âÁØ ¸¸Á·'
+5GtitleÈÞ´ëÀüÈ­ Á¦Ç° Ãâ½Ã°¡ »¡¶óÁø´Ù
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+¸ð¸ðÆù, ¾ÆÀÌÆù12title5GtitleÃâ½Ã¼Ò½Ä È­Á¦, ¾ÆÀÌÆù11 ÇÁ·Î ¹× SE2 °¡°Ý ÇÒÀÎ µ¹ÀÔ
+ÁÖÆÄ¼ö ´ë±Ô¸ð ÀçÇÒ´ç¡¦ÀÌÅë3»çtitle5GtitleÅõÀÚ ¹ß¸ñ Àâ³ª
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø-¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+¿À½ºÆ®¸®¾Æ, ÁÖ¸ñ¹Þ´Âtitle5Gtitle°ü·Ã Åë½ÅÀåºñ ¹× ºÎÇ° ½ÃÀå
+»þ¿À¹Ì ÃÑÆÇ ÇÑ±¹Å×Å© "40¸¸¿ø´ëtitle5GtitleÆùÀ¸·Î ¼ÒºñÀÚ ¼±ÅÃ±Ç º¸Àå"
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+'¿Ã´ñÆù' °¶·°½Ã³ëÆ®9, °¶·°½ÃA90title5Gtitle, °¶·°½ÃA31 ÃÖ´ë 80% ÀÌ»ó º¸Á¶±Ý Áö¿ø
+5Gtitleº¸´Ù 50¹è ºü¸¥ 6G T½Ã´ë ÁØºñ¡¦»ï¼ºÀüÀÚ, ¡®6G ¹é¼­¡¯ °ø°³
+»ï¼ºÀüÀÚ, '»õ·Î¿î Â÷¿øÀÇ ÃÊ¿¬°á °æÇè' Á¦°ø¡¦title5Gtitle³Ñ¾î 6G ½Ã´ë ÁØºñÇÑ´Ù
+¿µ±¹,title5Gtitle»ç¾÷ È­¿þÀÌ ¹ö¸®¸é... »ï¼ºÀüÀÚ ¼öÇý¹Þ³ª
+ÇÑ±¹Å×Å©, »þ¿À¹Ì '¹Ì 10 ¶óÀÌÆ®title5Gtitle' 17ÀÏ Ãâ½Ã...13ÀÏºÎÅÍ »çÀü¿¹¾à
+ÇÑ±¹Å×Å©, »þ¿À¹Ì '¹Ì 10 ¶óÀÌÆ®title5Gtitle' 17ÀÏ Ãâ½Ã...13ÀÏºÎÅÍ »çÀü¿¹¾à
+¡°title5Gtitle³Ñ¾î 6G·Î, ¼±Çà ±â¼ú°³¹ß·Î ½ÃÀå ¼±Á¡¡±¡¦»ï¼º, 6G ¹é¼­ °ø°³
+»ï¼ºÀüÀÚ, '»õ·Î¿î Â÷¿øÀÇ ÃÊ¿¬°á °æÇè' Á¦°ø¡¦title5Gtitleº¸´Ù 50¹è ºü¸¥ '6G ½Ã´ë' ÁÖ...
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' ±â¼ú °³¹ß ¿Ï·á
+KT?¹ö¶óÀÌÁð?º¸´ÙÆù µî ±Û·Î¹ú Åë½Å»ç °¡ÀÔ 'title5GtitleÇ»Ã³ Æ÷·³',title5GtitleMEC ±â¼ú ±Ô...
+´Ù°¡¿À´Âtitle5GtitleÆù ´ëÀü¡¦°¶³ëÆ®20¡¤title5Gtitle¾ÆÀÌÆù µîÀå
+¡°¹Ï¾ú´ø ¿µ±¹¸¶Àú¡¤¡¤¡¤¡±...È­¿þÀÌtitle5GtitleÅðÃâ, »ï¼ºÀüÀÚ¿¡ ¹Ý»çÀÌÀÍ µÉ±î?
+5GtitleÈÞ´ëÀüÈ­ Á¦Ç° Ãâ½Ã°¡ »¡¶óÁø´Ù
+KT, ñéÂ÷ÀÌ³ª¸ð¹ÙÀÏ°útitle5Gtitle±â¹Ý 'K-ÄÜÅÙÃ÷ »ýÁß°è ¼­ºñ½º' ÆÇ¸Å °è¾à Ã¼°á
+ÄÚ·Î³ª19·Î ¹® ´ÝÀº ´ö¼ö±Ã, SKTtitle5Gtitle'Á¡ÇÁVR'·Î ±¸°æÇÏ¼¼¿ä
+ÃÖ±â¿µ Àå°ü "title5GtitleÅõÀÚ¼¼¾× °øÁ¦ È®´ë ³ë·Â, ±âÀçºÎ¿Í ÇùÀÇ Áß"
+È­¿þÀÌtitle5GtitleÀåºñ, çÈ ½ÃÀå¿¡¼­ ÃàÃâ¡¦2027³â±îÁö ±â Åë½Å¸Áµµ ´Ü°èÀû Á¦°Å
+KT, ÁÖÂ÷³­ Å¸°³ ³ª¼­¡¦title5Gtitle¤ýÅ¬¶ó¿ìµå ÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+5GtitleÀüÀÚÆÄ´Â ÁË°¡ ¾ø´Ù¡¦Áß°è±â °¥µî¿¡ ´äÇÑ Á¤ºÎ
+°ú±âÁ¤ÅëºÎ,title5GtitleÆù ÀüÀÚÆÄ ÃøÁ¤±â°£ ´ÜÃà¡¦½ÅÁ¦Ç° Ãâ½Ã »¡¶óÁö³ª
+SKÅÚ·¹ÄÞ,title5Gtitle¡¤AI·Î Àå¾ÖÀÎ ÀÏÀÚ¸® ´Ã¸°´Ù
+ADI-ÀÎÅÚ,title5Gtitle³×Æ®¿öÅ© ¼³°è¿ë ¹«¼± ÇÃ·§Æû °³¹ß Çù·Â
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+5Gtitle³Ñ¾î 6G ÁÖµµ¡¦»ï¼ºÀüÀÚ, Â÷¼¼´ë Åë½Å ±â¼ú ºñÀü ´ãÀº '6G ¹é¼­' °ø°³
+ñé»þ¿À¹Ì, 40¸¸¿ø´ëtitle5Gtitle½º¸¶Æ®Æù '¹Ì10 ¶óÀÌÆ®' ùÛ »ó·ú
+çÈÀÇÈ¸,title5GtitleÈ­¿þÀÌ ´ë¾ÈÀ¸·Î »ï¼º ¿øÇÏ³ª?
+ñé»þ¿À¹Ì, 40¸¸¿ø´ëtitle5Gtitle½º¸¶Æ®Æù '¹Ì10 ¶óÀÌÆ®' ùÛ »ó·ú
+çÈÀÇÈ¸,title5GtitleÈ­¿þÀÌ ´ë¾ÈÀ¸·Î »ï¼º ¿øÇÏ³ª?
+»ï¼ºÀüÀÚ,title5Gtitleº¸´Ù 50¹è ºü¸¥ '6G' ½Ã´ë ÁÖµµ ¼±¾ð
+SKT,title5Gtitle¡¤AI·Î Àå¾ÖÀÎ ÀÏÀÚ¸® ´Ã¸°´Ù
+¾ÆÇÁ¸®Ä«Æ¼ºñ(TV), 'VR e½ºÆ÷Ã÷'·Îtitle5GtitleÄÜÅÙÃ÷ ½ÃÀå °ø·«ÇÑ´Ù
+°¶³ëÆ®, ¾ÆÀÌÆù12, À® µî Ãâ½Ã¿¹°í¡¦'title5Gtitle½º¸¶Æ®Æù ´ëÀü'
+´ë±¸TP,title5Gtitle½Ã´ë Çõ½ÅÀû 'µð¹ÙÀÌ½º ¾ÆÀÌµð¾î' Ã£´Â´Ù
+¾ÈÅÍÁö´Âtitle5Gtitle¿¡ ¼ÓÅÍÁö´Â ¼ÒºñÀÚµé... ºñ½Ñtitle5Gtitle¿ä±ÝÁ¦ ¾²¸é¼­ LTE·Î¸¸ ¾´´Ù
+KT,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø MOU
+KT, 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' °³¹ß,,, À¶º¹ÇÕ »ç¾÷ È°¿ë ±â´ë
+Ä«ÀÌ½ºÆ®,title5Gtitle»ç¹°ÀÎÅÍ³Ý ¿¬°á¼º È®´ëÇÏ´Â ÃÊÀúÀü·Â IoT ±â¼ú °³¹ß
+SKT,title5Gtitle¡¤AI·Î Àå¾ÖÀÎ ÀÏÀÚ¸® ´Ã¸°´Ù
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+ÇÑ±¹Å×Å©³î·ÎÁö, »þ¿À¹Ì '¹Ì 10 ¶óÀÌÆ®title5Gtitle' »çÀü ¿¹¾à ÆÇ¸Å
+ÄÉÀÌ¿¥´õºíÀ¯ µðÁöÅÐ´ºµô¿¡ ¸ÅÃâ ³­´Ù, ±è´ö¿ë ÀûÀÚ¿¡µµtitle5GtitleÅõÀÚ °á½Ç
+LGÀüÀÚ, ÄÚµå¸í 'À®'title5Gtitle½º¸¶Æ®Æù 10¿ù Ãâ½Ã °¡´É¼º
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+5Gtitle¹× »ýÈ°Á¦Ç° µî ÀüÀÚÆÄ,"ÀÎÃ¼º¸È£±âÁØ ¸¸Á·"
+"½º¸¶Æ®ÇÑ ÁÖÂ÷ °¡´ÉÇØÁø´Ù"¡¦KT,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+[SRÅë½ÅIT] KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+´ë±¸TP,title5GtitleÇõ½Å µð¹ÙÀÌ½º ¾ÆÀÌµð¾î °ø¸ðÀü
+'title5Gtitle°øÂ¥Æù' ÀÌÅë3»ç¿¡ 500¾ï¿ø´ë °úÂ¡±Ý ÀÇ°á
+ÀüÀÚÆÄ ÃøÁ¤½Ã°£ ´ÜÃàÀ¸·Î,title5GtitleÈÞ´ëÀüÈ­ Ãâ½Ã »¡¶óÁø´Ù
+ÇÑ±¹Å×Å©³î·ÎÁö, »þ¿À¹Ì '¹Ì10 ¶óÀÌÆ®title5Gtitle' Ãâ½Ã
+SKÅÚ·¹ÄÞ 'Àå¾ÖÀÎ°í¿ë°ø´Ü,title5Gtitle¿Í AI·Î Àå¾ÖÀÎ ÀÏÀÚ¸® ´Ã¸°´Ù
+KT, Áß±¹ Â÷ÀÌ³ª¸ð¹ÙÀÏ¿¡title5Gtitle±â¹Ý KÆË »ýÁß°è ÄÜÅÙÃ÷ ¼öÃâ
+»þ¿À¹Ì,title5Gtitle½º¸¶Æ®Æù ¡®¹Ì10 ¶óÀÌÆ®title5Gtitle¡¯ 17ÀÏ ±¹³» Ãâ½Ã
+KT, Â÷ÀÌ³ª¸ð¹ÙÀÏ°útitle5Gtitle±â¹Ý »ýÁß°è K-ÄÜÅÙÃ÷ ÆÇ¸Å °è¾à Ã¼°á
+»þ¿À¹Ìtitle5GtitleÆù '¹Ì10 ¶óÀÌÆ®', ±¹³»¼­ ÅëÇÒ±î
+»þ¿À¹Ìtitle5GtitleÆù '¹Ì10 ¶óÀÌÆ®', ±¹³»¼­ ÅëÇÒ±î
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+5GtitleÈÞ´ëÀüÈ­ Á¦Ç° Ãâ½Ã »¡¶óÁø´Ù
+[ÀÌÁÖÀÇ ÁÖ½Ä½ÃÀå Èå¸§] ÇÑ±¹ÆÇ ´ºµô Á¤Ã¥, ÀÌÀç¸í °ü·ÃÁÖ °ü½É...¸ð´õ³ª °ü·Ã...
+ÇÏ¹Ý±â ½º¸¶Æ®Æù ½ÃÀå 'title5Gtitle´ëÀü'¡¦°¶³ëÆ®20¿¡ Ã¹title5Gtitle¾ÆÀÌÆù±îÁö
+KT Developstitle5GtitleMEC Specifications with Global Telecom Companies
+KT, 'title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­' ÃßÁø À§ÇØ ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Í ¸Â¼Õ
+»§ÁýÆù °¶·°½Ã³ëÆ®20, ¾ÆÀÌÆù12title5GtitleÃâ½ÃÀÏ ÀÓ¹Ú, ¾ÆÀÌÆù11, °¶·°½ÃS20 °¡°ÝÀÎ...
+°ú±âÁ¤ÅëºÎ,title5GtitleÈÞ´ëÀüÈ­ ÀüÀÚÆÄ ÃøÁ¤ °£¼ÒÈ­
+KT, Â÷ÀÌ³ª¸ð¹ÙÀÏ°ú '¸Â¼Õ'¡¦title5Gtitle±â¹Ý K-ÄÜÅÙÃ÷ Áß±¹Çà
+'title5GtitleºÒ¹ý º¸Á¶±Ý' ÀÌÅë3»ç¿¡ 5¹é¾ï ¿ø´ë °úÂ¡±Ý ÆøÅº
+KT, ±Û·Î¹ú Åë½Å»ç¿Í Çù¾÷...title5GtitleÀ¶º¹ÇÕ »ç¾÷ À§ÇÑ 'title5GtitleMEC' ±â¼ú ±Ô°Ý °³¹ß
+¿µ±¹,title5Gtitle»ç¾÷¼­ È­¿þÀÌ 'ÅðÃâ' °áÁ¤¡¦ ¹Ì±¹ ¾Ð¹Ú¿¡ ¼Õµé¾ú³ª
+KT, µðÁöÅÐ ´ºµô ¹ß¸ÂÃç 'title5Gtitle±â¾÷ ¸Á ½½¶óÀÌ½º' ±â¼ú °³¹ß
+KT, Â÷ÀÌ³ª¸ð¹ÙÀÏ ÀÚÈ¸»ç Migu¿¡title5Gtitle±â¹Ý K-POP »ýÁß°è ÄÜÅÙÃ÷ Á¤½Ä ÆÇ¸Å
+°ú±âºÎ,title5Gtitle¹× »ýÈ°Á¦Ç° µî ÀüÀÚÆÄ ÃøÁ¤°á°ú °ø°³
+¹æÅëÀ§,title5GtitleºÒ¹ýº¸Á¶±Ý ÀÌÅë3»ç¿¡ °úÂ¡±Ý 512¾ï¿ø ºÎ°ú
+SKÅÚ·¹ÄÞ,title5Gtitle¡¤AI·Î Àå¾ÖÀÎ ÀÏÀÚ¸® °³¼± ¾ÕÀå
+5Gtitle½Ã´ë ¸Á Áß¸³¼º Á¤Ã¥¹æÇâ ÀÇ°ß ¹¯´Â´Ù
+KT, ¹ö¶óÀÌÁð µî ±Û·Î¹ú Åë½Å»ç¿Ítitle5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+KT, ¹ö¶óÀÌÁð¡¤º¸´ÙÆù°ú ¼ÕÀâ°í 'title5GtitleMEC ±â¼ú±Ô°Ý' °³¹ß
+KT, ¹ö¶óÀÌÁð¡¤º¸´ÙÆù°ú ¼ÕÀâ°í 'title5GtitleMEC ±â¼ú±Ô°Ý' °³¹ß
+5Gtitle°¡¼ººñ °æÀï ³ª¼­Áö¸¸¡¦ÀÌÅë»ç »þ¿À¹Ìtitle5GtitleÆù Ãâ½Ã ¸Á¼³ÀÎ ÀÌÀ¯´Â
+çÈtitle5Gtitle³×Æ®¿öÅ© »ç¾÷¿¡¼­ Áß±¹ 'È­¿þÀÌ' ¿ÏÀü ¹èÁ¦
+KT,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø¡¦ÀÚÀ²ÁÖÇà¡¤Å¬¶ó¿ìµå ÁÖÂ÷°üÁ¦ Áö¿ø
+KT, µðÁöÅÐ´ºµô °Ü³ÉÇØ 'title5Gtitle±â¾÷¸Á ½½¶óÀÌ½º' °³¹ß
+´Ù½Ã ²ÞÆ²°Å¸®´Â ÀÏº»ÀÇtitle5Gtitle½ÃÀå
+5GtitleÀüÀÚÆÄ ÀÎÃ¼ À¯ÇØ?¡¦ÀÎÃ¼º¸È£±âÁØ '¸¸Á·'
+[IPO] ¿ÍÀÌÆÊ, ÀÌ´Þ ÄÚ½º´Ú ÀÔ¼º..."'title5GtitleRFºÎÇ°'¼­ ±Û·Î¹ú±â¾÷ µµ¾à"
+[IPO] ¿ÍÀÌÆÊ, ÀÌ´Þ ÄÚ½º´Ú ÀÔ¼º..."'title5GtitleRFºÎÇ°'¼­ ±Û·Î¹ú±â¾÷ µµ¾à"
+"'title5Gtitle'º¸´Ù 50¹è ºü¸£´Ù"...»ï¼ºÀüÀÚ '6G' ½Ã´ë 'ÁÖµµ±Ç', Â÷¼¼´ë 'ºñÀü' °ø°³
+ADI, ÀÎÅÚ°útitle5Gtitle³×Æ®¿öÅ© ¼³°è¿ë ¹«¼± ÇÃ·§Æû °³¹ß
+5GtitleÈÞ´ëÀüÈ­, Á¦Ç° Ãâ½Ã »¡¶óÁø´Ù
+"title5GtitleÈÞ´ëÀüÈ­¡¤±âÁö±¹, ÀüÀÚÆÄ ÀÎÃ¼º¸È£±âÁØ ¸¸Á·"
+SK, KT, LG to ask gov't for tax cuts ontitle5Gtitleinvestment
+"title5GtitleÈÞ´ëÀüÈ­¡¤±âÁö±¹, ÀüÀÚÆÄ ÀÎÃ¼º¸È£±âÁØ ¸¸Á·"
+SK, KT, LG to ask gov't for tax cuts ontitle5Gtitleinvestment
+"»õ·Î¿î Â÷¿øÀÇ ÃÊ¿¬°á °æÇè"...»ï¼ºÀüÀÚ,title5Gtitle³Ñ¾î 6G ½Ã´ë º»´Ù
+Åë½Å¾÷°è,title5Gtitle±¸Ãà¿¡ 25Á¶¿ø ÅõÀÚÇÑ´Ù¡¦ 'µðÁöÅÐ ´ºµô' µÞ¹ÞÄ§
+[±Û·Î¹ú-Biz 24] ¿µ±¹,title5GtitleÀÌµ¿Åë½Å ½Ã½ºÅÛ¿¡¼­ È­¿þÀÌ 2027³â±îÁö ¿ÏÀü ¹èÁ¦
+¡¯ì¡üåÀÇ ¹«Áö³Ä, Á¤Ä¡Àû ¼î³Ä?¡¯ çÈ¼­ ¹ú¾îÁø È­¿þÀÌ¡¤»ï¼ºtitle5GtitleÇØÇÁ´×
+°ú±âÁ¤ÅëºÎ,title5GtitleÈÞ´ëÆù¡¤±âÁö±¹ 'ÀüÀÚÆÄ', ÀÎÃ¼º¸È£ ±âÁØ '¸¸Á·'
+¡¯ì¡üåÀÇ ¹«Áö³Ä, Á¤Ä¡Àû ¼î³Ä?¡¯ çÈ¼­ ¹ú¾îÁø È­¿þÀÌ¡¤»ï¼ºtitle5GtitleÇØÇÁ´×
+Á¤ºÎ, ±¹°¡ ¾÷¹«¸Átitle5GtitleÀüÈ¯ ½Ãµ¿¡¦Æí¸®ÇÑ ÇàÁ¤ Ã³¸® Áö¿ø
+»þ¿À¹Ìtitle5GtitleÆù '¹Ì10 ¶óÀÌÆ®' ±¹³» Ã¹ »ó·ú¡¦ ñé ¿øÇÃ·¯½º¡¤ZTE µî ÁßÀú°¡ ½ÃÀå...
+"title5GtitleÁÖµµ±Ç 6G±îÁö ÀÕ°Ú´Ù".... »ï¼ºÀüÀÚ, Â÷¼¼´ë 6G ºñÀü Á¦½Ã ¹é¼­ °ø°³
+SKT 'µðÁöÅÐ ´ºµô' µ¿Âü...title5Gtitle¡¤AI·Î 'Àå¾ÖÀÎ ÀÏÀÚ¸®' ´Ã¸°´Ù
+5GtitleÈÞ´ëÆù Ãâ½Ã »¡¶óÁø´Ù¡¦ÀüÀÚÆÄ ÃøÁ¤ ½Ã°£ 40ÀÏ·Î ´ÜÃà
+'ÀÏ·ùÃ¾ÄÚ ¸ÖÆ¼°ñ' Æ÷Ç×, ¼­¿ï 3-1 Á¦¾Ð¡¦title5Gtitle¹«ÆÐÇàÁø
+SKT-ÇÑ±¹Àå¾ÖÀÎ°í¿ë°ø´Ü,title5Gtitle¡¤AI·Î Àå¾ÖÀÎ ÀÏÀÚ¸® ´Ã¸°´Ù
+SKÅÚ·¹ÄÞ-Àå¾ÖÀÎ°í¿ë°ø´Ü, "title5Gtitle¡¤AI·Î Àå¾ÖÀÎ ÀÏÀÚ¸® ´Ã¸°´Ù"
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ À§ÇØ MOU Ã¼°á
+KT, ºÎÃµ»ê¾÷ÁøÈï¿ø¡¤¸¶·Î·Îº¿Å×Å©¿Ítitle5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+5GtitleÈÞ´ëÀüÈ­¿Í ±âÁö±¹ ÀüÀÚÆÄ, ÀÎÃ¼¿¡ ¾ÈÀüÇÒ±î?
+5GtitleÈÞ´ëÀüÈ­ Á¦Ç° Ãâ½Ã »¡¶óÁø´Ù
+SKÅÚ·¹ÄÞ,title5Gtitle°¡ÀÔÀÚ Áõ°¡·Î ÇÏ¹Ý±â °¡ÆÄ¸¥ ÀÌÀÍÁõ°¡ °¡´É
+SKÅÚ·¹ÄÞ,title5Gtitle¡¤AI È°¿ëÇØ 'Àå¾ÖÀÎ °í¿ë¾ÈÀü¸Á' ±¸ÃàÇÑ´Ù
+[¿©ÀÇµµ Å¬¶ó¾²]title5GtitleÇÊ¼ö Àåºñ '¿¡Ä¡¿¡ÇÁ¾Ë'¡¤Ä£È¯°æÂ÷ ÇÙ½É ºÎÇ° 'Çö´ëÁ¦Ã¶'
+»ï¼º¡¤LG¡¤¾ÖÇÃ ÂüÀü¡¦ÇÏ¹Ý±â 'title5Gtitle½º¸¶Æ®Æù ´ëÀü' ½ÂÀÚ´Â?
+5GtitleÀüÀÚÆÄ°¡ ÀÎÃ¼¿¡ ¹ÌÄ¡´Â ¿µÇâ ¹Ì¹ÌÇÏ´Ù
+È­¿þÀÌ, MTN ¼ÕÀâ°í ³²¾Æ°ø¿¡title5Gtitle³×Æ®¿öÅ© ±¸Ãà
+"°ø¿µÁÖÂ÷Àå¿¡ ·Îº¿ ±Ù¹«ÇÑ´Ù?"...KT,title5GtitleÁÖÂ÷·Îº¿ »ç¾÷È­ ÃßÁø
+È­¿þÀÌtitle5GtitleÀåºñ, À¯·´¼­ ÅðÃâ¡¦»ï¼ºÀüÀÚ¿¡ È£ÀçµÉ±î
+ÀÌÅë 3»ç,title5GtitleÀÎÇÁ¶ó¿¡ 26Á¶ ÅõÀÚ...title5Gtitleµ¥ÀÌÅÍ °í¼Óµµ·Î ¶Õ´Â´Ù
+SKÅÚ·¹ÄÞ,title5Gtitle¡¤AI·Î Àå¾ÖÀÎ ÀÏÀÚ¸® ´Ã¸°´Ù
+¿µ±¹,title5Gtitle¼­ ñé È­¿þÀÌ ¹èÁ¦·Î ¼±È¸¡¦±âÁ¸ ¼³ºñµµ ´Ü°èÀû Æó±â(»óº¸)
+°ú±âºÎ,title5GtitleÆù ÀüÀÚÆÄ ÃøÁ¤±â°£ ´ÜÃà¡¦ºñ¿ë Àý°¨ ±â´ë
+5Gtitle½º¸¶Æ®Æù¡¤¹«¼±°ø±âÃ»Á¤±â µî ÀüÀÚÆÄ ±âÁØ 'ÃæÁ·'
+SKT-ÇÑ±¹Àå¾ÖÀÎ°í¿ë°ø´Ü,title5Gtitle¡¤AI·Î Àå¾ÖÀÎ ICTÀÏÀÚ¸® È°¼ºÈ­
+ÇÖ¹ö½ºÆù, ¾ÆÀÌÆù12title5GtitleÃâ½Ã¼Ò½Ä ÀÌ½´, ¾ÆÀÌÆù11 ÇÁ·Î ¹× SE2 Æ¯°¡ ÆÇ¸Å
+5GtitleÈÞ´ëÀüÈ­¡¤±âÁö±¹ ÀüÀÚÆÄ ÃøÁ¤ÇØº¸´Ï...±âÁØÄ¡ ÀÌÇÏ '¾ÈÀü'
+ADI, ÀÎÅÚ°ú Çù·ÂÇÏ¿©title5Gtitle³×Æ®¿öÅ© ¼³°è¿ë ¹«¼± ÇÃ·§Æû °³¹ß
+ÀÌÅë3»çµµ '¼Ö±ê'¡¦»þ¿À¹Ì, ¿Ü»ê Ã¹title5GtitleÆù '¹Ì10 ¶óÀÌÆ®' ³»³ù´Ù
+½Î´Ù±¸¹ö½ºÆù °¶·°½Ã³ëÆ®20 »çÀü¿¹¾à ¹× °¶·°½ÃS10title5Gtitle, ³ëÆ®9 Æ¯°¡Çà»ç
+KT, º¸´ÙÆù¡¤¹ö¶óÀÌÁð µî 'title5GtitleÇ»Ã³ Æ÷·³' ¸â¹öµé°útitle5GtitleMEC ±â¼ú ±Ô°Ý °³¹ß
+ÇÏ¹Ý±âtitle5GtitleÆù ´ëÀü, ½ÂÀÚ´Â?¡¦°¶³ëÆ®20-¾ÆÀÌÆù12 ´ë°á
+KT, Â÷ÀÌ³ª¸ð¹ÙÀÏ°útitle5Gtitle'K-ÄÜÅÙÃ÷' ÆÇ¸Å °è¾à Ã¼°á...'KT Live Stage'
+SKT,title5Gtitle¡¤AI·Î Àå¾ÖÀÎ ICTÀÏÀÚ¸® ´Ã¸°´Ù¡¦Àå¾ÖÀÎ°í¿ë°ø´Ü°ú '¸Â¼Õ'

@@ -17,18 +17,25 @@ skt4 <- skt4[2,]
 skt4 <- as.numeric(skt4)
 
 df_sk <- data.frame(Date,skt4)
+
 str(df_sk)
 
 ## skt data 분기별 freq
 ts_skt4 <- ts(df_sk$skt,start=c(2013,1),frequency = 12)
+
+plot(df_sk$skt4)
+
+start(ts_skt4)
 end(ts_skt4)
 
 dev.new()
 plot.ts(ts_skt4)
+abline(reg=lm(ts_skt4~time(ts_skt4)))
 plot(decompose(ts_skt4))
 
 ## 각 plot 확인
 dev.new()
+plot(decompose(ts_skt4))
 ggseasonplot(ts_skt4)
 ggsubseriesplot(diff(ts_skt4, differences = 1))
 gglagplot(ts_skt4)
@@ -57,22 +64,75 @@ ggPacf(diff(log(ts_skt4),differences = 2),lag=40) + ggtitle('SKT 4G 로그변환
 
 
 ##### skt 4g auto arima
-auto.arima(ts_skt4,seasonal = F, stepwise=F, approximation = F)
+skt4g_auto <- auto.arima(ts_skt4,seasonal = F, stepwise=F, approximation = F)
 dev.new()
 ggtsdisplay(ts_skt4)
+adf.test(ts_skt4,alternative = 'stationary',k=0)
+summary(skt4g_auto)
+
+
+dev.new()
+ts_skt4 %>%
+  Arima(order=c(5,2,0)) %>% 
+  forecast(h=12) %>%
+  autoplot() + ggtitle('SKT 4G 예측 모델 Auto ARIMA')
 
 # skt 4g 차분데이터 확인
 dev.new()
-ggtsdisplay(diff(diff(log(ts_skt4),differences = 2),1))
-adf.test(diff(ts_skt4,differences = 2),alternative='stationary',k=0)
+ggtsdisplay(diff(log(ts_skt4),differences = 2),lag=12)
+adf.test(diff(log(ts_skt4),differences = 2),alternative='stationary',k=0)
+
+# 로그+1회 차분 
+skt4_autofit <- auto.arima(diff(log(ts_skt4)))
+summary(skt4_autofit)
+
+skt4_modifit <- arima(log(ts_skt4),order=c(0,1,1),seasonal = list(order=c(0,0,1),period=12))
+summary(skt4_modifit)
+
+skt4_modipred <- predict(skt4_modifit, n.ahead=5*12)
+
+dev.new()
+ts_skt4 %>% 
+  log() %>% 
+  Arima(c(0,1,1),seasonal = list(order=c(0,0,1),period=12)) %>% 
+  forecast(h=12) %>% 
+  autoplot() + ggtitle('SKT 4G 예측 모델 log,diff=1 ARIMA')
 
 
 # 로그+2회 차분 
-skt4_fit <- Arima(diff(log(ts_skt4),2),c(4,2,0))
-summary(skt4_fit)
+skt4_autofit <- auto.arima(diff(log(ts_skt4)),2)
+summary(skt4_autofit)
+
+skt4_modifit <- arima(log(ts_skt4),order=c(2,2,1),)
+summary(skt4_modifit)
+
+skt4_modipred <- predict(skt4_modifit, n.ahead=5*12)
 
 dev.new()
-checkresiduals(skt4_fit)
+ts_skt4 %>% 
+  log() %>% 
+  Arima(c(2,2,1),) %>% 
+  forecast(h=12) %>% 
+  autoplot() + ggtitle('SKT 4G 예측 모델 log,diff=2 ARIMA')
+  
+
+
+#skt4_fit <- Arima(diff(log(ts_skt4),2),c(2,2,0))
+summary(skt4_fit)
+
+pred <- predict(skt4_fit,n.ahead = 12*3)
+exp(exp(pred$pred))
+
+dev.new()
+ts.plot(ts_skt4,exp(pred$pred),log='y',lty=c(1,3))
+
+dev.new()
+ts_skt4 %>%
+  diff(2) %>%
+  Arima(order=c(4,2,0)) %>% 
+  forecast(h=12) %>%
+  autoplot() + ggtitle('SKT 4G 예측 모델 diff=2 ARIMA')
+
 
 # stlf 
 dev.new()
@@ -93,7 +153,6 @@ ts_skt4 %>%
 
 
 # ETS 모델 적합도 확인 필요
-
 dev.new()
 ts_skt4 %>% ets() %>% forecast(h=12) %>% autoplot() + ggtitle('SKT 4G 예측 모델 ETS')
 
@@ -107,10 +166,6 @@ autoplot(diff(ts_skt4,differences = 2), series="데이터") +
   scale_colour_manual(values=c("데이터"="grey","12-MA"="red"),
                       breaks=c("데이터","12-MA")) +
   guides(colour=guide_legend(title=" "))
-
-
-
-
 
 
 ##### skt 5g
@@ -149,6 +204,15 @@ ts_skt4 %>%
   Arima(order=c(4,2,0)) %>%
   forecast() %>%
   autoplot()+ ggtitle('SKT 4g 예측 모델')
+
+##### 발표용 데이터 정리
+df_skk <- data.frame(Date, skt4, skt5)
+head(df_skk,30)
+tail(df_skk,30)
+
+df_ktt <- data.frame(Date, kt4, kt5)
+head(df_ktt,30)
+tail(df_ktt,30)
 
 
 ##### kt 4g
