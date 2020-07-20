@@ -476,7 +476,7 @@ checkresiduals(kt5_test)
 dev.new()
 ts_kt5 %>%
   Arima(order=c(5,2,0)) %>%
-  forecast() %>%
+  forecast(h=12) %>%
   autoplot()+ ggtitle('KT 5g MA(5,2,0) 예측 모델')
 
 kt5_fit <- arima(diff(ts_kt5,2),c(5,2,0))
