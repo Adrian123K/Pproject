@@ -353,6 +353,7 @@ kt4g_auto <- auto.arima(ts_kt4,seasonal = F, stepwise=F, approximation = F)
 kt4g_auto
 
 summary(kt4g_auto)
+write.csv(forecast(kt4g_auto),file = 'kt4g_forecast.csv')
 
 dev.new()
 ts_kt4 %>%
